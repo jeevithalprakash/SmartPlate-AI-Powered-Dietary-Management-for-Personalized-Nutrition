@@ -1,22 +1,58 @@
 # SmartSpoon-AI-Powered-Dietary-Management-for-Personalized-Nutrition
 The primary focus of this project is to develop a data-driven, AIpowered SmartSpoon that caters to individuals with dietary restrictions, particularly patients suffering from hypertension (BP), kidney diseases, and other health conditions requiring lowsodium diets.
 
-Features
+🧠 Key Features
 
-Food Recognition with CNN: Upload food images and get accurate food identification using a Convolutional Neural Network model.
+🥗 Food Image Recognition using a CNN model (TensorFlow/Keras)
 
-Sentiment Analysis: Analyze feedback using NLP to understand user satisfaction and preferences.
+💬 Sentiment Analysis of user feedback via NLP (TextBlob, NLTK)
 
-Personalized Suggestions: Leverage user taste, usage patterns, and survey data to provide tailored food recommendations.
+📊 Personalized Food Recommendations based on user data
 
-Feedback Dashboard: Visualize user responses and behavior through interactive charts and CSV data integration.
+📈 Data Visualization for insights from feedback, usage, and taste profiles
 
-Tech Stack
+🌐 Web Interface built with Flask and Bootstrap
+
+🛠 Technology Stack
 
 Frontend: HTML, CSS, JavaScript
 
-Backend: Python (Flask)
+Backend: Python, Flask
 
-AI/ML: TensorFlow/Keras, TextBlob, NLTK, Scikit-learn
+AI/ML: TensorFlow, Keras, Scikit-learn, NLTK, TextBlob
 
-Data: CSV files for user feedback, taste preferences, and survey analysis
+Data: CSV-based datasets
+
+📁 Modules Overview
+
+food_recognition.py: CNN model for recognizing food items
+
+sentiment_analysis.py: Extracts feedback sentiment
+
+data_analysis.py: Analyzes and visualizes usage patterns
+
+app.py: Flask application serving routes and logic
+
+templates/: HTML frontend views
+
+static/: CSS and JS assets
+
+🚀 How to Run
+
+Clone the repository
+
+Create a virtual environment and activate it
+
+Install dependencies using pip install -r requirements.txt
+
+Run the app using python app.py
+
+Visit http://127.0.0.1:5000 in your browser
+
+📌 Use Case
+
+Ideal for users with specific dietary needs (e.g., fitness, diabetic management, personal nutrition) looking for intelligent meal tracking and healthier food alternatives based on real-time AI feedback.
+
+📃 License
+
+This project is licensed under the MIT License.
