@@ -1,0 +1,1001 @@
+feedback,satisfaction,improvement_score,User ID,Timestamp,Category,Feedback Sentiment,Customer Type,Response Time (hrs),Resolved Status,Resolution Time (days),Feedback Length,Engagement Score
+"Very satisfying, good quality.",4,4,U00001,2024-12-15 07:57:59.220317,Software,Negative,New User,40,Yes,1.0,30,5.28
+Needs improvement in texture.,2,5,U00002,2024-05-21 07:57:59.220335,Software,Neutral,Returning User,15,No,,29,8.8
+"Not as expected, needs improvement.",2,3,U00003,2024-08-24 07:57:59.220339,Electronics,Positive,VIP User,49,No,,35,2.35
+"Mild flavors, could be stronger.",5,1,U00004,2024-04-03 07:57:59.220341,Electronics,Negative,VIP User,21,No,,32,5.86
+Portion size could be larger.,4,4,U00005,2024-04-22 07:57:59.220343,Software,Positive,VIP User,32,Yes,3.0,29,1.79
+Too spicy for me.,5,3,U00006,2024-05-25 07:57:59.220346,Clothing,Negative,New User,49,Yes,4.0,17,1.14
+"Not as expected, needs improvement.",2,3,U00007,2024-08-07 07:57:59.220348,Service,Positive,New User,53,Yes,19.0,35,2.88
+"Amazing experience, will buy again.",2,5,U00008,2025-01-22 07:57:59.220351,Electronics,Positive,Returning User,25,No,,35,4.88
+"Very satisfying, good quality.",4,4,U00009,2025-03-09 07:57:59.220355,Electronics,Neutral,New User,12,No,,30,3.33
+Delicious and well-seasoned.,5,5,U00010,2024-08-22 07:57:59.220357,Clothing,Neutral,Returning User,25,No,,28,8.8
+Perfect balance of flavors.,3,3,U00011,2025-03-19 07:57:59.220359,Electronics,Positive,VIP User,45,No,,27,8.58
+"Very satisfying, good quality.",4,4,U00012,2025-01-13 07:57:59.220361,Service,Neutral,Returning User,31,Yes,3.0,30,2.67
+Portion size could be larger.,4,4,U00013,2024-07-31 07:57:59.220363,Electronics,Neutral,Returning User,64,Yes,18.0,29,8.12
+Portion size could be larger.,4,4,U00014,2024-06-15 07:57:59.220365,Service,Neutral,Returning User,41,No,,29,5.87
+Too spicy for me.,5,3,U00015,2025-02-24 07:57:59.220367,Electronics,Negative,Returning User,65,No,,17,2.84
+"Amazing experience, will buy again.",2,5,U00016,2024-12-06 07:57:59.220369,Service,Positive,Returning User,68,No,,35,9.8
+Needs improvement in texture.,2,5,U00017,2024-09-04 07:57:59.220371,Electronics,Negative,VIP User,11,No,,29,2.86
+Too spicy for me.,5,3,U00018,2024-04-28 07:57:59.220373,Service,Neutral,Returning User,16,Yes,9.0,17,6.25
+Too spicy for me.,5,3,U00019,2024-12-19 07:57:59.220375,Software,Negative,New User,37,Yes,14.0,17,2.92
+Perfect balance of flavors.,3,3,U00020,2024-06-08 07:57:59.220377,Food,Positive,Returning User,25,Yes,23.0,27,6.42
+Lacked freshness.,4,4,U00021,2025-03-10 07:57:59.220379,Food,Positive,Returning User,35,No,,17,1.28
+"Amazing experience, will buy again.",2,5,U00022,2024-04-18 07:57:59.220381,Clothing,Negative,Returning User,57,No,,35,2.91
+Too salty for my preference.,1,5,U00023,2024-07-20 07:57:59.220383,Clothing,Negative,VIP User,3,Yes,3.0,28,9.13
+Too spicy for me.,5,3,U00024,2024-04-06 07:57:59.220385,Electronics,Negative,New User,39,No,,17,1.86
+Great value for money.,3,5,U00025,2024-10-19 07:57:59.220387,Clothing,Neutral,Returning User,57,No,,22,1.96
+Would recommend to friends!,3,3,U00026,2024-09-05 07:57:59.220390,Food,Negative,VIP User,54,No,,27,5.9
+Lacked freshness.,4,4,U00027,2024-12-26 07:57:59.220393,Clothing,Negative,New User,25,No,,17,9.7
+Too salty for my preference.,1,5,U00028,2024-08-18 07:57:59.220396,Service,Negative,New User,63,No,,28,4.91
+Great value for money.,3,5,U00029,2024-10-27 07:57:59.220399,Clothing,Neutral,New User,32,No,,22,5.57
+"Amazing experience, will buy again.",2,5,U00030,2024-05-03 07:57:59.220402,Software,Positive,VIP User,29,No,,35,7.71
+"Great taste, loved it!",4,1,U00031,2024-09-03 07:57:59.220407,Food,Neutral,VIP User,23,No,,22,9.35
+Great value for money.,3,5,U00032,2024-06-12 07:57:59.220410,Clothing,Positive,New User,45,No,,22,7.85
+Delicious and well-seasoned.,5,5,U00033,2024-08-22 07:57:59.220414,Software,Neutral,New User,70,Yes,28.0,28,4.66
+Lacked freshness.,4,4,U00034,2025-01-01 07:57:59.220418,Clothing,Neutral,Returning User,2,No,,17,6.96
+"Not as expected, needs improvement.",2,3,U00035,2024-12-09 07:57:59.220421,Software,Negative,Returning User,23,No,,35,8.85
+Great value for money.,3,5,U00036,2024-10-19 07:57:59.220424,Food,Neutral,VIP User,47,No,,22,1.06
+Could be less oily.,5,5,U00037,2024-10-14 07:57:59.220428,Service,Neutral,VIP User,20,Yes,4.0,19,8.71
+"Great taste, loved it!",4,1,U00038,2024-11-28 07:57:59.220431,Software,Positive,Returning User,19,No,,22,9.87
+Portion size could be larger.,4,4,U00039,2024-10-03 07:57:59.220434,Service,Negative,Returning User,43,No,,29,8.92
+Portion size could be larger.,4,4,U00040,2024-09-14 07:57:59.220437,Food,Neutral,Returning User,51,Yes,27.0,29,7.52
+"Mild flavors, could be stronger.",5,1,U00041,2025-01-16 07:57:59.220441,Electronics,Neutral,VIP User,45,Yes,9.0,32,5.23
+Delicious and well-seasoned.,5,5,U00042,2024-07-02 07:57:59.220455,Food,Neutral,VIP User,34,No,,28,9.18
+Great value for money.,3,5,U00043,2024-09-17 07:57:59.220457,Service,Neutral,New User,71,No,,22,3.52
+Great value for money.,3,5,U00044,2024-05-01 07:57:59.220459,Service,Positive,New User,30,Yes,13.0,22,3.77
+"Mild flavors, could be stronger.",5,1,U00045,2024-10-09 07:57:59.220461,Clothing,Negative,VIP User,23,Yes,27.0,32,7.26
+Would recommend to friends!,3,3,U00046,2024-12-27 07:57:59.220463,Electronics,Neutral,VIP User,33,Yes,30.0,27,9.45
+Would recommend to friends!,3,3,U00047,2024-09-03 07:57:59.220465,Service,Negative,VIP User,13,No,,27,4.49
+"Mild flavors, could be stronger.",5,1,U00048,2024-08-06 07:57:59.220467,Software,Positive,VIP User,15,Yes,14.0,32,7.68
+Would recommend to friends!,3,3,U00049,2024-04-18 07:57:59.220468,Software,Negative,VIP User,22,No,,27,2.05
+Perfect balance of flavors.,3,3,U00050,2025-02-13 07:57:59.220470,Electronics,Neutral,New User,22,No,,27,9.11
+Great value for money.,3,5,U00051,2024-11-14 07:57:59.220472,Service,Neutral,Returning User,34,No,,22,5.15
+"Very satisfying, good quality.",4,4,U00052,2025-01-18 07:57:59.220474,Clothing,Negative,VIP User,58,Yes,15.0,30,2.69
+Needs improvement in texture.,2,5,U00053,2024-05-15 07:57:59.220476,Clothing,Positive,New User,7,Yes,13.0,29,5.94
+Could be less oily.,5,5,U00054,2024-05-03 07:57:59.220478,Clothing,Negative,New User,57,No,,19,4.43
+Perfect balance of flavors.,3,3,U00055,2024-07-01 07:57:59.220480,Food,Neutral,New User,68,Yes,3.0,27,7.76
+"Amazing experience, will buy again.",2,5,U00056,2024-10-21 07:57:59.220482,Electronics,Positive,VIP User,32,Yes,11.0,35,5.94
+Perfect balance of flavors.,3,3,U00057,2025-03-20 07:57:59.220484,Service,Neutral,VIP User,17,Yes,27.0,27,6.4
+"Very satisfying, good quality.",4,4,U00058,2025-02-21 07:57:59.220486,Food,Positive,VIP User,44,Yes,24.0,30,8.91
+"Amazing experience, will buy again.",2,5,U00059,2024-11-01 07:57:59.220487,Clothing,Neutral,New User,31,No,,35,3.97
+Could be less oily.,5,5,U00060,2024-08-25 07:57:59.220489,Clothing,Positive,Returning User,43,Yes,4.0,19,7.12
+"Very satisfying, good quality.",4,4,U00061,2024-07-06 07:57:59.220491,Clothing,Negative,VIP User,16,No,,30,4.01
+Too salty for my preference.,1,5,U00062,2024-08-10 07:57:59.220493,Service,Positive,Returning User,5,Yes,23.0,28,8.84
+Needs improvement in texture.,2,5,U00063,2024-11-14 07:57:59.220495,Electronics,Positive,New User,45,Yes,25.0,29,9.71
+Could be less oily.,5,5,U00064,2024-12-27 07:57:59.220497,Food,Positive,Returning User,60,Yes,22.0,19,7.22
+Great value for money.,3,5,U00065,2024-11-27 07:57:59.220499,Food,Negative,Returning User,1,No,,22,6.1
+Would recommend to friends!,3,3,U00066,2024-11-13 07:57:59.220501,Software,Negative,New User,70,No,,27,2.94
+Too salty for my preference.,1,5,U00067,2024-12-23 07:57:59.220503,Service,Negative,Returning User,38,No,,28,2.73
+Delicious and well-seasoned.,5,5,U00068,2024-07-31 07:57:59.220505,Clothing,Positive,VIP User,18,No,,28,7.04
+Could be less oily.,5,5,U00069,2024-05-31 07:57:59.220507,Clothing,Positive,New User,7,No,,19,3.95
+Delicious and well-seasoned.,5,5,U00070,2024-11-07 07:57:59.220509,Electronics,Neutral,Returning User,70,Yes,28.0,28,6.97
+"Amazing experience, will buy again.",2,5,U00071,2024-08-22 07:57:59.220510,Electronics,Negative,VIP User,29,No,,35,2.94
+Too salty for my preference.,1,5,U00072,2024-03-28 07:57:59.220512,Clothing,Negative,Returning User,20,No,,28,6.52
+Needs improvement in texture.,2,5,U00073,2025-02-26 07:57:59.220514,Clothing,Negative,Returning User,10,Yes,8.0,29,8.33
+Great value for money.,3,5,U00074,2025-03-02 07:57:59.220516,Clothing,Positive,New User,45,Yes,2.0,22,9.81
+"Mild flavors, could be stronger.",5,1,U00075,2024-05-29 07:57:59.220518,Service,Positive,Returning User,65,Yes,20.0,32,5.09
+Great value for money.,3,5,U00076,2025-01-07 07:57:59.220520,Electronics,Positive,Returning User,20,Yes,25.0,22,1.46
+"Very satisfying, good quality.",4,4,U00077,2024-10-06 07:57:59.220522,Service,Positive,VIP User,30,No,,30,4.47
+Great value for money.,3,5,U00078,2024-12-05 07:57:59.220524,Software,Positive,VIP User,64,Yes,24.0,22,6.4
+"Not as expected, needs improvement.",2,3,U00079,2024-04-10 07:57:59.220526,Service,Positive,New User,70,Yes,28.0,35,8.13
+Too spicy for me.,5,3,U00080,2025-02-24 07:57:59.220528,Service,Negative,New User,49,No,,17,5.29
+"Mild flavors, could be stronger.",5,1,U00081,2024-04-25 07:57:59.220530,Software,Positive,VIP User,5,No,,32,8.66
+Perfect balance of flavors.,3,3,U00082,2024-04-01 07:57:59.220532,Service,Positive,VIP User,58,Yes,24.0,27,2.6
+Would recommend to friends!,3,3,U00083,2024-11-20 07:57:59.220534,Service,Positive,VIP User,17,Yes,26.0,27,4.3
+"Great taste, loved it!",4,1,U00084,2024-05-08 07:57:59.220535,Food,Positive,New User,30,No,,22,8.19
+Needs improvement in texture.,2,5,U00085,2024-05-11 07:57:59.220537,Service,Neutral,Returning User,17,Yes,7.0,29,8.82
+Too salty for my preference.,1,5,U00086,2025-02-15 07:57:59.220539,Clothing,Positive,New User,30,Yes,24.0,28,4.59
+Too spicy for me.,5,3,U00087,2024-11-23 07:57:59.220541,Clothing,Positive,Returning User,8,No,,17,2.0
+Needs improvement in texture.,2,5,U00088,2024-11-08 07:57:59.220543,Clothing,Neutral,New User,17,No,,29,4.58
+Too salty for my preference.,1,5,U00089,2024-07-08 07:57:59.220545,Food,Positive,New User,31,No,,28,9.89
+Would recommend to friends!,3,3,U00090,2024-11-30 07:57:59.220547,Software,Negative,New User,8,Yes,29.0,27,6.79
+Lacked freshness.,4,4,U00091,2024-07-05 07:57:59.220549,Clothing,Positive,VIP User,17,Yes,14.0,17,5.53
+Lacked freshness.,4,4,U00092,2024-12-11 07:57:59.220551,Food,Positive,Returning User,43,Yes,14.0,17,1.12
+Delicious and well-seasoned.,5,5,U00093,2024-10-15 07:57:59.220553,Clothing,Positive,New User,60,Yes,2.0,28,6.96
+Needs improvement in texture.,2,5,U00094,2025-02-01 07:57:59.220555,Software,Negative,VIP User,59,No,,29,3.44
+Lacked freshness.,4,4,U00095,2025-03-11 07:57:59.220557,Software,Positive,New User,13,No,,17,8.36
+"Not as expected, needs improvement.",2,3,U00096,2025-02-21 07:57:59.220558,Service,Negative,New User,1,Yes,25.0,35,3.23
+"Mild flavors, could be stronger.",5,1,U00097,2025-01-28 07:57:59.220560,Electronics,Negative,New User,71,Yes,15.0,32,1.79
+Too salty for my preference.,1,5,U00098,2024-09-03 07:57:59.220562,Software,Neutral,Returning User,53,Yes,11.0,28,5.08
+Delicious and well-seasoned.,5,5,U00099,2025-02-19 07:57:59.220564,Software,Positive,New User,58,Yes,28.0,28,9.78
+Great value for money.,3,5,U00100,2024-07-20 07:57:59.220566,Electronics,Negative,VIP User,63,No,,22,4.62
+Too salty for my preference.,1,5,U00101,2024-10-12 07:57:59.220568,Clothing,Positive,New User,9,Yes,15.0,28,5.75
+Delicious and well-seasoned.,5,5,U00102,2024-06-27 07:57:59.220570,Food,Positive,Returning User,54,No,,28,8.31
+Would recommend to friends!,3,3,U00103,2024-06-04 07:57:59.220572,Software,Negative,New User,18,Yes,3.0,27,1.42
+Needs improvement in texture.,2,5,U00104,2024-09-30 07:57:59.220574,Software,Neutral,VIP User,62,Yes,30.0,29,6.23
+Would recommend to friends!,3,3,U00105,2024-12-13 07:57:59.220576,Clothing,Neutral,New User,68,No,,27,3.52
+"Mild flavors, could be stronger.",5,1,U00106,2024-08-27 07:57:59.220577,Clothing,Positive,New User,42,Yes,5.0,32,1.33
+"Mild flavors, could be stronger.",5,1,U00107,2025-01-25 07:57:59.220579,Food,Positive,New User,43,Yes,2.0,32,3.41
+Too spicy for me.,5,3,U00108,2024-08-27 07:57:59.220581,Software,Positive,New User,66,No,,17,1.37
+Would recommend to friends!,3,3,U00109,2024-10-17 07:57:59.220584,Software,Negative,VIP User,1,Yes,1.0,27,1.82
+"Very satisfying, good quality.",4,4,U00110,2024-06-21 07:57:59.220586,Software,Negative,Returning User,57,No,,30,5.42
+Great value for money.,3,5,U00111,2024-08-17 07:57:59.220588,Software,Negative,VIP User,46,Yes,27.0,22,4.67
+Could be less oily.,5,5,U00112,2025-02-22 07:57:59.220589,Food,Positive,VIP User,8,No,,19,8.11
+Would recommend to friends!,3,3,U00113,2024-04-26 07:57:59.220591,Food,Negative,New User,51,Yes,3.0,27,8.58
+Too spicy for me.,5,3,U00114,2024-08-07 07:57:59.220593,Food,Positive,Returning User,56,No,,17,4.88
+"Amazing experience, will buy again.",2,5,U00115,2024-07-02 07:57:59.220595,Food,Neutral,VIP User,46,Yes,2.0,35,5.47
+"Not as expected, needs improvement.",2,3,U00116,2025-01-20 07:57:59.220597,Electronics,Negative,Returning User,47,No,,35,9.3
+Too salty for my preference.,1,5,U00117,2024-08-26 07:57:59.220599,Service,Negative,New User,12,No,,28,1.89
+"Mild flavors, could be stronger.",5,1,U00118,2024-12-19 07:57:59.220601,Service,Positive,Returning User,45,Yes,29.0,32,8.91
+"Amazing experience, will buy again.",2,5,U00119,2025-01-15 07:57:59.220603,Food,Negative,New User,21,No,,35,3.02
+Too spicy for me.,5,3,U00120,2024-12-13 07:57:59.220606,Software,Neutral,New User,67,No,,17,2.71
+Delicious and well-seasoned.,5,5,U00121,2024-05-15 07:57:59.220609,Food,Neutral,New User,24,No,,28,2.52
+Could be less oily.,5,5,U00122,2024-07-29 07:57:59.220613,Electronics,Positive,VIP User,59,No,,19,9.97
+Great value for money.,3,5,U00123,2024-11-17 07:57:59.220617,Service,Negative,New User,28,No,,22,3.68
+Great value for money.,3,5,U00124,2025-01-16 07:57:59.220620,Clothing,Negative,VIP User,28,No,,22,7.09
+Great value for money.,3,5,U00125,2025-03-19 07:57:59.220623,Food,Negative,New User,19,No,,22,1.8
+"Not as expected, needs improvement.",2,3,U00126,2024-10-15 07:57:59.220626,Food,Negative,VIP User,67,Yes,14.0,35,1.71
+Could be less oily.,5,5,U00127,2024-08-17 07:57:59.220629,Software,Positive,Returning User,11,No,,19,4.96
+"Not as expected, needs improvement.",2,3,U00128,2024-07-24 07:57:59.220633,Clothing,Positive,Returning User,14,Yes,27.0,35,3.74
+"Mild flavors, could be stronger.",5,1,U00129,2024-08-27 07:57:59.220636,Clothing,Neutral,New User,33,Yes,3.0,32,5.94
+"Not as expected, needs improvement.",2,3,U00130,2025-01-29 07:57:59.220641,Clothing,Positive,Returning User,59,Yes,21.0,35,9.52
+"Great taste, loved it!",4,1,U00131,2024-10-06 07:57:59.220644,Service,Neutral,VIP User,49,No,,22,9.4
+Could be less oily.,5,5,U00132,2025-03-15 07:57:59.220647,Clothing,Negative,New User,69,Yes,29.0,19,3.31
+"Very satisfying, good quality.",4,4,U00133,2025-01-31 07:57:59.220649,Food,Neutral,New User,3,No,,30,6.32
+Could be less oily.,5,5,U00134,2024-08-16 07:57:59.220651,Food,Positive,Returning User,28,No,,19,6.21
+Too spicy for me.,5,3,U00135,2024-11-17 07:57:59.220653,Clothing,Negative,VIP User,64,Yes,2.0,17,3.7
+"Great taste, loved it!",4,1,U00136,2024-12-27 07:57:59.220655,Food,Negative,Returning User,20,Yes,9.0,22,8.64
+Great value for money.,3,5,U00137,2025-03-09 07:57:59.220657,Software,Positive,VIP User,35,No,,22,3.18
+Too spicy for me.,5,3,U00138,2024-08-15 07:57:59.220659,Food,Positive,New User,9,Yes,3.0,17,8.39
+Too spicy for me.,5,3,U00139,2024-08-02 07:57:59.220661,Clothing,Neutral,VIP User,23,Yes,28.0,17,4.26
+"Mild flavors, could be stronger.",5,1,U00140,2025-02-09 07:57:59.220662,Service,Positive,Returning User,26,No,,32,8.78
+Portion size could be larger.,4,4,U00141,2024-11-04 07:57:59.220664,Electronics,Neutral,Returning User,45,Yes,15.0,29,7.37
+Perfect balance of flavors.,3,3,U00142,2024-12-22 07:57:59.220666,Electronics,Positive,Returning User,25,No,,27,2.23
+"Great taste, loved it!",4,1,U00143,2024-07-07 07:57:59.220668,Electronics,Negative,Returning User,32,Yes,5.0,22,1.38
+Too spicy for me.,5,3,U00144,2024-12-16 07:57:59.220670,Electronics,Positive,New User,20,No,,17,1.61
+Perfect balance of flavors.,3,3,U00145,2025-02-12 07:57:59.220672,Software,Neutral,New User,7,Yes,7.0,27,4.93
+Perfect balance of flavors.,3,3,U00146,2024-10-03 07:57:59.220674,Clothing,Neutral,New User,30,No,,27,6.92
+"Great taste, loved it!",4,1,U00147,2024-06-21 07:57:59.220676,Clothing,Neutral,New User,22,No,,22,8.56
+Portion size could be larger.,4,4,U00148,2024-12-16 07:57:59.220678,Clothing,Positive,New User,28,Yes,25.0,29,1.46
+"Amazing experience, will buy again.",2,5,U00149,2024-12-24 07:57:59.220680,Food,Positive,Returning User,65,Yes,21.0,35,1.06
+Delicious and well-seasoned.,5,5,U00150,2024-07-17 07:57:59.220682,Software,Negative,Returning User,16,No,,28,6.83
+"Very satisfying, good quality.",4,4,U00151,2024-12-17 07:57:59.220684,Service,Negative,VIP User,28,Yes,2.0,30,8.74
+Delicious and well-seasoned.,5,5,U00152,2024-04-21 07:57:59.220686,Clothing,Neutral,VIP User,16,No,,28,4.27
+Could be less oily.,5,5,U00153,2024-08-04 07:57:59.220688,Software,Positive,VIP User,20,No,,19,2.12
+Great value for money.,3,5,U00154,2024-04-24 07:57:59.220690,Food,Negative,Returning User,18,Yes,23.0,22,8.17
+"Very satisfying, good quality.",4,4,U00155,2024-07-08 07:57:59.220692,Software,Negative,New User,10,Yes,20.0,30,8.41
+Could be less oily.,5,5,U00156,2024-06-01 07:57:59.220694,Service,Positive,VIP User,9,No,,19,9.32
+Too spicy for me.,5,3,U00157,2025-03-15 07:57:59.220696,Clothing,Negative,Returning User,71,Yes,4.0,17,1.57
+Great value for money.,3,5,U00158,2024-12-07 07:57:59.220698,Electronics,Negative,VIP User,47,Yes,7.0,22,8.32
+Too salty for my preference.,1,5,U00159,2025-03-20 07:57:59.220700,Service,Negative,VIP User,60,No,,28,7.31
+"Great taste, loved it!",4,1,U00160,2024-10-21 07:57:59.220701,Electronics,Negative,Returning User,33,Yes,7.0,22,7.44
+"Very satisfying, good quality.",4,4,U00161,2024-05-22 07:57:59.220703,Food,Neutral,VIP User,61,Yes,12.0,30,7.34
+"Very satisfying, good quality.",4,4,U00162,2024-11-22 07:57:59.220705,Food,Negative,New User,12,Yes,19.0,30,7.45
+Would recommend to friends!,3,3,U00163,2024-04-26 07:57:59.220707,Clothing,Neutral,Returning User,6,Yes,15.0,27,8.38
+Too spicy for me.,5,3,U00164,2024-05-02 07:57:59.220709,Service,Neutral,New User,4,Yes,5.0,17,9.55
+"Amazing experience, will buy again.",2,5,U00165,2024-10-24 07:57:59.220711,Food,Neutral,VIP User,33,Yes,13.0,35,6.97
+Perfect balance of flavors.,3,3,U00166,2024-08-21 07:57:59.220713,Clothing,Neutral,New User,1,No,,27,6.56
+Great value for money.,3,5,U00167,2024-08-06 07:57:59.220715,Electronics,Neutral,Returning User,26,No,,22,7.25
+Too spicy for me.,5,3,U00168,2024-05-23 07:57:59.220717,Electronics,Neutral,Returning User,13,No,,17,5.43
+Lacked freshness.,4,4,U00169,2024-11-15 07:57:59.220719,Service,Negative,New User,24,No,,17,8.72
+Portion size could be larger.,4,4,U00170,2024-12-03 07:57:59.220721,Service,Neutral,New User,15,No,,29,5.4
+Perfect balance of flavors.,3,3,U00171,2025-01-22 07:57:59.220722,Software,Positive,Returning User,53,Yes,14.0,27,4.34
+"Great taste, loved it!",4,1,U00172,2024-06-16 07:57:59.220724,Electronics,Positive,Returning User,52,No,,22,6.57
+Perfect balance of flavors.,3,3,U00173,2024-04-16 07:57:59.220726,Clothing,Neutral,VIP User,15,No,,27,5.75
+"Amazing experience, will buy again.",2,5,U00174,2024-06-23 07:57:59.220729,Food,Positive,VIP User,36,Yes,10.0,35,4.23
+"Mild flavors, could be stronger.",5,1,U00175,2024-07-12 07:57:59.220731,Food,Negative,New User,48,Yes,25.0,32,7.82
+Would recommend to friends!,3,3,U00176,2024-09-29 07:57:59.220733,Service,Positive,New User,69,No,,27,2.44
+Perfect balance of flavors.,3,3,U00177,2024-03-26 07:57:59.220735,Clothing,Positive,VIP User,11,No,,27,9.3
+"Great taste, loved it!",4,1,U00178,2024-12-02 07:57:59.220737,Electronics,Positive,VIP User,10,Yes,5.0,22,1.25
+"Amazing experience, will buy again.",2,5,U00179,2024-05-17 07:57:59.220738,Electronics,Positive,New User,29,No,,35,3.28
+Delicious and well-seasoned.,5,5,U00180,2025-03-19 07:57:59.220740,Clothing,Neutral,VIP User,24,No,,28,4.56
+"Very satisfying, good quality.",4,4,U00181,2024-12-10 07:57:59.220742,Electronics,Positive,VIP User,47,No,,30,7.01
+"Mild flavors, could be stronger.",5,1,U00182,2024-07-01 07:57:59.220745,Clothing,Negative,Returning User,48,Yes,9.0,32,9.19
+Would recommend to friends!,3,3,U00183,2024-11-06 07:57:59.220748,Electronics,Positive,Returning User,3,Yes,8.0,27,4.36
+"Very satisfying, good quality.",4,4,U00184,2025-03-09 07:57:59.220751,Food,Neutral,New User,64,Yes,10.0,30,6.38
+Portion size could be larger.,4,4,U00185,2025-02-15 07:57:59.220755,Electronics,Neutral,Returning User,53,No,,29,3.82
+Could be less oily.,5,5,U00186,2025-02-26 07:57:59.220758,Electronics,Neutral,VIP User,64,No,,19,7.3
+"Mild flavors, could be stronger.",5,1,U00187,2024-04-17 07:57:59.220761,Clothing,Negative,New User,47,No,,32,8.66
+"Mild flavors, could be stronger.",5,1,U00188,2024-11-10 07:57:59.220764,Food,Neutral,New User,9,No,,32,9.15
+Delicious and well-seasoned.,5,5,U00189,2024-06-22 07:57:59.220768,Service,Neutral,VIP User,32,No,,28,8.82
+Delicious and well-seasoned.,5,5,U00190,2024-08-30 07:57:59.220772,Service,Neutral,Returning User,18,No,,28,6.2
+Great value for money.,3,5,U00191,2024-11-29 07:57:59.220775,Electronics,Negative,VIP User,1,No,,22,3.83
+"Not as expected, needs improvement.",2,3,U00192,2024-06-17 07:57:59.220777,Service,Positive,New User,66,Yes,17.0,35,7.27
+Perfect balance of flavors.,3,3,U00193,2024-03-25 07:57:59.220779,Software,Negative,VIP User,29,Yes,16.0,27,1.81
+"Mild flavors, could be stronger.",5,1,U00194,2024-10-14 07:57:59.220781,Service,Positive,New User,31,No,,32,4.04
+"Very satisfying, good quality.",4,4,U00195,2025-02-19 07:57:59.220783,Service,Positive,VIP User,55,Yes,5.0,30,6.64
+"Great taste, loved it!",4,1,U00196,2024-11-14 07:57:59.220785,Food,Neutral,Returning User,57,No,,22,2.43
+Needs improvement in texture.,2,5,U00197,2025-03-01 07:57:59.220787,Electronics,Positive,New User,60,No,,29,9.53
+"Not as expected, needs improvement.",2,3,U00198,2024-06-06 07:57:59.220789,Food,Negative,Returning User,50,No,,35,1.25
+Needs improvement in texture.,2,5,U00199,2024-06-13 07:57:59.220791,Clothing,Positive,VIP User,18,No,,29,9.48
+Would recommend to friends!,3,3,U00200,2024-04-20 07:57:59.220793,Food,Neutral,VIP User,20,Yes,21.0,27,9.98
+"Amazing experience, will buy again.",2,5,U00201,2024-09-02 07:57:59.220795,Food,Negative,New User,60,No,,35,8.78
+"Very satisfying, good quality.",4,4,U00202,2024-05-12 07:57:59.220799,Service,Neutral,VIP User,50,No,,30,2.99
+"Very satisfying, good quality.",4,4,U00203,2024-12-23 07:57:59.220801,Food,Neutral,Returning User,31,No,,30,7.63
+"Not as expected, needs improvement.",2,3,U00204,2024-10-02 07:57:59.220803,Service,Negative,VIP User,37,No,,35,7.61
+"Mild flavors, could be stronger.",5,1,U00205,2024-06-11 07:57:59.220805,Food,Positive,VIP User,51,Yes,3.0,32,3.2
+Portion size could be larger.,4,4,U00206,2025-01-15 07:57:59.220807,Food,Neutral,Returning User,12,No,,29,7.33
+"Not as expected, needs improvement.",2,3,U00207,2024-08-07 07:57:59.220809,Clothing,Positive,VIP User,8,No,,35,9.76
+Needs improvement in texture.,2,5,U00208,2025-01-19 07:57:59.220811,Food,Positive,VIP User,41,Yes,30.0,29,3.12
+"Not as expected, needs improvement.",2,3,U00209,2024-05-18 07:57:59.220812,Food,Neutral,New User,60,Yes,12.0,35,7.93
+"Very satisfying, good quality.",4,4,U00210,2025-03-13 07:57:59.220814,Electronics,Negative,Returning User,26,Yes,21.0,30,6.75
+Portion size could be larger.,4,4,U00211,2024-05-18 07:57:59.220816,Service,Neutral,New User,26,No,,29,9.38
+Perfect balance of flavors.,3,3,U00212,2024-09-25 07:57:59.220818,Software,Neutral,New User,23,No,,27,2.12
+Lacked freshness.,4,4,U00213,2024-05-20 07:57:59.220820,Food,Negative,New User,60,No,,17,2.5
+Great value for money.,3,5,U00214,2025-01-09 07:57:59.220822,Clothing,Neutral,Returning User,28,No,,22,4.95
+Too salty for my preference.,1,5,U00215,2024-05-21 07:57:59.220824,Service,Positive,Returning User,24,Yes,13.0,28,8.7
+Delicious and well-seasoned.,5,5,U00216,2024-04-14 07:57:59.220826,Electronics,Negative,Returning User,70,No,,28,4.25
+"Not as expected, needs improvement.",2,3,U00217,2024-12-09 07:57:59.220828,Software,Positive,VIP User,34,No,,35,1.58
+Would recommend to friends!,3,3,U00218,2024-05-02 07:57:59.220830,Clothing,Negative,VIP User,69,Yes,3.0,27,2.95
+Could be less oily.,5,5,U00219,2024-11-23 07:57:59.220832,Food,Neutral,Returning User,18,Yes,18.0,19,6.12
+"Amazing experience, will buy again.",2,5,U00220,2024-06-14 07:57:59.220834,Service,Neutral,VIP User,5,Yes,28.0,35,2.36
+Lacked freshness.,4,4,U00221,2024-06-27 07:57:59.220836,Software,Negative,VIP User,52,No,,17,9.79
+Great value for money.,3,5,U00222,2024-05-21 07:57:59.220838,Electronics,Neutral,VIP User,67,No,,22,3.24
+Great value for money.,3,5,U00223,2024-09-17 07:57:59.220840,Electronics,Positive,VIP User,30,No,,22,1.15
+Great value for money.,3,5,U00224,2024-07-18 07:57:59.220842,Food,Neutral,New User,59,Yes,27.0,22,5.16
+Great value for money.,3,5,U00225,2024-04-19 07:57:59.220844,Software,Positive,New User,18,No,,22,4.32
+Needs improvement in texture.,2,5,U00226,2024-07-04 07:57:59.220846,Electronics,Positive,VIP User,62,Yes,7.0,29,5.6
+Would recommend to friends!,3,3,U00227,2024-07-12 07:57:59.220848,Software,Negative,VIP User,13,Yes,8.0,27,3.1
+Would recommend to friends!,3,3,U00228,2024-07-22 07:57:59.220849,Service,Positive,New User,33,Yes,14.0,27,5.16
+Portion size could be larger.,4,4,U00229,2024-11-05 07:57:59.220851,Clothing,Negative,VIP User,26,Yes,25.0,29,3.02
+Delicious and well-seasoned.,5,5,U00230,2024-05-16 07:57:59.220853,Electronics,Neutral,Returning User,23,Yes,12.0,28,6.09
+"Very satisfying, good quality.",4,4,U00231,2024-06-26 07:57:59.220855,Service,Negative,New User,6,Yes,11.0,30,7.8
+Great value for money.,3,5,U00232,2025-03-14 07:57:59.220857,Food,Positive,New User,51,No,,22,4.79
+Could be less oily.,5,5,U00233,2024-05-11 07:57:59.220859,Service,Neutral,New User,39,Yes,10.0,19,5.95
+"Very satisfying, good quality.",4,4,U00234,2024-08-22 07:57:59.220862,Food,Neutral,New User,1,No,,30,6.79
+Would recommend to friends!,3,3,U00235,2024-07-28 07:57:59.220864,Software,Neutral,Returning User,60,No,,27,3.89
+"Great taste, loved it!",4,1,U00236,2024-04-16 07:57:59.220866,Food,Positive,Returning User,58,No,,22,6.18
+"Great taste, loved it!",4,1,U00237,2025-03-03 07:57:59.220868,Clothing,Positive,New User,3,Yes,11.0,22,2.53
+Could be less oily.,5,5,U00238,2025-01-29 07:57:59.220870,Electronics,Positive,Returning User,54,No,,19,8.19
+Portion size could be larger.,4,4,U00239,2024-07-23 07:57:59.220872,Food,Positive,New User,17,Yes,4.0,29,6.13
+Would recommend to friends!,3,3,U00240,2024-09-09 07:57:59.220874,Food,Negative,New User,42,Yes,9.0,27,1.06
+Could be less oily.,5,5,U00241,2024-04-05 07:57:59.220875,Food,Positive,Returning User,13,No,,19,1.07
+Needs improvement in texture.,2,5,U00242,2024-05-19 07:57:59.220877,Electronics,Positive,VIP User,35,Yes,15.0,29,5.98
+"Not as expected, needs improvement.",2,3,U00243,2025-01-09 07:57:59.220880,Service,Neutral,VIP User,23,No,,35,9.15
+Could be less oily.,5,5,U00244,2024-11-16 07:57:59.220882,Electronics,Neutral,VIP User,68,No,,19,5.08
+Perfect balance of flavors.,3,3,U00245,2025-01-30 07:57:59.220883,Food,Negative,Returning User,69,Yes,15.0,27,5.46
+"Very satisfying, good quality.",4,4,U00246,2025-03-21 07:57:59.220885,Clothing,Neutral,VIP User,59,Yes,11.0,30,7.61
+Lacked freshness.,4,4,U00247,2024-10-17 07:57:59.220887,Service,Negative,Returning User,26,No,,17,2.47
+Too spicy for me.,5,3,U00248,2024-10-17 07:57:59.220889,Food,Neutral,Returning User,12,Yes,24.0,17,8.15
+Portion size could be larger.,4,4,U00249,2024-09-11 07:57:59.220891,Software,Neutral,Returning User,35,Yes,20.0,29,7.82
+Could be less oily.,5,5,U00250,2024-08-12 07:57:59.220893,Service,Positive,Returning User,49,No,,19,4.95
+Would recommend to friends!,3,3,U00251,2025-02-13 07:57:59.220895,Electronics,Positive,New User,62,No,,27,6.01
+"Amazing experience, will buy again.",2,5,U00252,2024-06-30 07:57:59.220897,Service,Positive,VIP User,32,No,,35,5.41
+"Great taste, loved it!",4,1,U00253,2024-10-22 07:57:59.220899,Software,Neutral,New User,43,No,,22,7.96
+Perfect balance of flavors.,3,3,U00254,2024-04-01 07:57:59.220901,Clothing,Neutral,Returning User,53,Yes,18.0,27,1.2
+Delicious and well-seasoned.,5,5,U00255,2024-06-07 07:57:59.220903,Software,Negative,New User,28,Yes,19.0,28,4.8
+Great value for money.,3,5,U00256,2024-09-15 07:57:59.220905,Clothing,Negative,VIP User,43,Yes,27.0,22,9.62
+Too spicy for me.,5,3,U00257,2024-05-25 07:57:59.220907,Electronics,Positive,VIP User,62,No,,17,5.86
+"Mild flavors, could be stronger.",5,1,U00258,2024-07-04 07:57:59.220909,Electronics,Positive,New User,19,No,,32,6.33
+Portion size could be larger.,4,4,U00259,2024-12-09 07:57:59.220911,Electronics,Neutral,New User,8,No,,29,6.25
+Lacked freshness.,4,4,U00260,2024-11-22 07:57:59.220913,Service,Positive,New User,63,No,,17,5.12
+Too spicy for me.,5,3,U00261,2025-03-13 07:57:59.220915,Food,Negative,VIP User,31,No,,17,3.04
+Could be less oily.,5,5,U00262,2024-09-19 07:57:59.220916,Food,Negative,New User,43,Yes,28.0,19,8.81
+Needs improvement in texture.,2,5,U00263,2024-04-13 07:57:59.220918,Service,Neutral,Returning User,61,No,,29,9.41
+"Great taste, loved it!",4,1,U00264,2024-08-29 07:57:59.220920,Software,Negative,Returning User,39,No,,22,9.13
+Would recommend to friends!,3,3,U00265,2025-01-04 07:57:59.220922,Electronics,Neutral,New User,31,No,,27,1.4
+"Great taste, loved it!",4,1,U00266,2024-10-06 07:57:59.220924,Clothing,Negative,New User,50,No,,22,2.75
+Delicious and well-seasoned.,5,5,U00267,2024-08-14 07:57:59.220926,Software,Negative,VIP User,53,Yes,1.0,28,9.11
+Needs improvement in texture.,2,5,U00268,2025-03-06 07:57:59.220929,Software,Neutral,VIP User,53,Yes,24.0,29,3.02
+Great value for money.,3,5,U00269,2025-01-09 07:57:59.220932,Software,Negative,VIP User,38,No,,22,9.94
+Would recommend to friends!,3,3,U00270,2024-04-27 07:57:59.220936,Clothing,Positive,VIP User,2,Yes,30.0,27,3.04
+"Very satisfying, good quality.",4,4,U00271,2025-01-29 07:57:59.220939,Clothing,Neutral,New User,27,No,,30,9.39
+Too salty for my preference.,1,5,U00272,2025-02-26 07:57:59.220943,Clothing,Positive,VIP User,45,No,,28,1.58
+Perfect balance of flavors.,3,3,U00273,2024-10-17 07:57:59.220946,Clothing,Positive,VIP User,3,Yes,1.0,27,1.09
+"Great taste, loved it!",4,1,U00274,2024-10-24 07:57:59.220949,Food,Positive,Returning User,16,No,,22,1.64
+"Amazing experience, will buy again.",2,5,U00275,2025-02-16 07:57:59.221079,Clothing,Negative,Returning User,49,No,,35,5.64
+"Great taste, loved it!",4,1,U00276,2025-01-23 07:57:59.221081,Food,Negative,Returning User,62,No,,22,3.08
+Too spicy for me.,5,3,U00277,2025-02-07 07:57:59.221083,Electronics,Negative,Returning User,52,No,,17,4.4
+"Great taste, loved it!",4,1,U00278,2024-12-18 07:57:59.221085,Software,Positive,Returning User,49,Yes,21.0,22,7.24
+Portion size could be larger.,4,4,U00279,2025-02-09 07:57:59.221088,Software,Negative,VIP User,16,Yes,25.0,29,9.53
+"Great taste, loved it!",4,1,U00280,2024-09-23 07:57:59.221090,Electronics,Positive,VIP User,37,Yes,4.0,22,3.38
+Too salty for my preference.,1,5,U00281,2024-10-19 07:57:59.221092,Software,Neutral,New User,33,No,,28,8.28
+Too salty for my preference.,1,5,U00282,2024-08-12 07:57:59.221094,Service,Neutral,VIP User,4,Yes,9.0,28,6.44
+Great value for money.,3,5,U00283,2024-09-25 07:57:59.221096,Clothing,Negative,VIP User,9,Yes,20.0,22,8.19
+Lacked freshness.,4,4,U00284,2024-07-17 07:57:59.221098,Service,Positive,Returning User,32,No,,17,2.68
+"Very satisfying, good quality.",4,4,U00285,2024-08-30 07:57:59.221100,Software,Negative,VIP User,4,Yes,11.0,30,1.87
+"Amazing experience, will buy again.",2,5,U00286,2024-08-10 07:57:59.221102,Food,Positive,VIP User,21,No,,35,7.46
+"Great taste, loved it!",4,1,U00287,2025-03-07 07:57:59.221103,Food,Negative,New User,50,No,,22,8.36
+"Great taste, loved it!",4,1,U00288,2024-08-29 07:57:59.221105,Food,Neutral,New User,53,No,,22,2.86
+Perfect balance of flavors.,3,3,U00289,2025-02-25 07:57:59.221107,Food,Negative,New User,47,No,,27,7.26
+Would recommend to friends!,3,3,U00290,2025-02-08 07:57:59.221109,Service,Negative,VIP User,26,No,,27,9.88
+Too salty for my preference.,1,5,U00291,2024-05-29 07:57:59.221111,Electronics,Negative,New User,38,Yes,18.0,28,8.2
+"Amazing experience, will buy again.",2,5,U00292,2025-03-02 07:57:59.221113,Electronics,Negative,New User,18,No,,35,5.18
+Great value for money.,3,5,U00293,2024-12-30 07:57:59.221115,Software,Neutral,New User,40,Yes,7.0,22,4.44
+Delicious and well-seasoned.,5,5,U00294,2024-06-02 07:57:59.221117,Electronics,Positive,Returning User,58,Yes,29.0,28,1.96
+Lacked freshness.,4,4,U00295,2024-05-28 07:57:59.221119,Clothing,Positive,VIP User,29,No,,17,6.49
+"Very satisfying, good quality.",4,4,U00296,2025-02-15 07:57:59.221121,Software,Negative,New User,36,No,,30,9.22
+Needs improvement in texture.,2,5,U00297,2024-11-28 07:57:59.221123,Software,Negative,VIP User,21,No,,29,9.25
+"Very satisfying, good quality.",4,4,U00298,2024-09-02 07:57:59.221125,Software,Neutral,New User,7,No,,30,6.25
+Portion size could be larger.,4,4,U00299,2024-12-04 07:57:59.221127,Software,Negative,New User,19,No,,29,1.8
+Too spicy for me.,5,3,U00300,2024-12-15 07:57:59.221129,Clothing,Neutral,New User,26,Yes,7.0,17,9.84
+Portion size could be larger.,4,4,U00301,2024-05-03 07:57:59.221130,Clothing,Negative,New User,38,Yes,17.0,29,3.47
+"Great taste, loved it!",4,1,U00302,2024-06-21 07:57:59.221132,Service,Negative,Returning User,37,No,,22,7.43
+"Mild flavors, could be stronger.",5,1,U00303,2024-07-16 07:57:59.221135,Service,Neutral,New User,55,No,,32,6.28
+Lacked freshness.,4,4,U00304,2025-03-12 07:57:59.221136,Electronics,Neutral,Returning User,18,Yes,10.0,17,4.09
+Too spicy for me.,5,3,U00305,2024-06-07 07:57:59.221138,Software,Positive,New User,47,No,,17,3.73
+"Amazing experience, will buy again.",2,5,U00306,2025-03-04 07:57:59.221140,Software,Neutral,VIP User,60,No,,35,5.7
+Needs improvement in texture.,2,5,U00307,2024-08-13 07:57:59.221142,Electronics,Negative,VIP User,5,No,,29,3.25
+Too salty for my preference.,1,5,U00308,2025-02-14 07:57:59.221144,Clothing,Neutral,Returning User,64,Yes,8.0,28,6.84
+Lacked freshness.,4,4,U00309,2024-09-04 07:57:59.221146,Electronics,Positive,VIP User,40,No,,17,3.7
+Lacked freshness.,4,4,U00310,2024-05-29 07:57:59.221149,Food,Negative,Returning User,68,Yes,11.0,17,8.49
+Portion size could be larger.,4,4,U00311,2024-11-17 07:57:59.221152,Software,Negative,Returning User,3,No,,29,3.46
+"Mild flavors, could be stronger.",5,1,U00312,2024-07-13 07:57:59.221153,Electronics,Neutral,New User,54,No,,32,6.82
+"Great taste, loved it!",4,1,U00313,2024-09-07 07:57:59.221155,Service,Positive,New User,68,Yes,7.0,22,2.06
+Could be less oily.,5,5,U00314,2024-09-19 07:57:59.221157,Clothing,Positive,Returning User,35,Yes,9.0,19,1.15
+Great value for money.,3,5,U00315,2025-03-18 07:57:59.221159,Clothing,Positive,Returning User,57,Yes,15.0,22,6.5
+Portion size could be larger.,4,4,U00316,2025-03-15 07:57:59.221161,Service,Negative,VIP User,71,Yes,25.0,29,4.84
+Lacked freshness.,4,4,U00317,2025-02-28 07:57:59.221163,Service,Positive,VIP User,49,No,,17,7.2
+"Not as expected, needs improvement.",2,3,U00318,2024-11-18 07:57:59.221165,Food,Neutral,Returning User,48,No,,35,1.19
+Perfect balance of flavors.,3,3,U00319,2024-10-13 07:57:59.221166,Service,Positive,VIP User,34,No,,27,4.63
+Needs improvement in texture.,2,5,U00320,2024-06-03 07:57:59.221168,Service,Positive,New User,17,Yes,2.0,29,6.66
+Great value for money.,3,5,U00321,2024-11-18 07:57:59.221171,Food,Positive,Returning User,61,Yes,27.0,22,9.44
+Portion size could be larger.,4,4,U00322,2025-02-22 07:57:59.221173,Food,Neutral,New User,42,No,,29,1.07
+Needs improvement in texture.,2,5,U00323,2025-02-22 07:57:59.221174,Clothing,Negative,VIP User,5,Yes,4.0,29,1.62
+Perfect balance of flavors.,3,3,U00324,2024-06-05 07:57:59.221176,Food,Neutral,New User,65,No,,27,6.28
+Delicious and well-seasoned.,5,5,U00325,2025-01-01 07:57:59.221178,Clothing,Positive,New User,61,No,,28,1.1
+Perfect balance of flavors.,3,3,U00326,2025-03-18 07:57:59.221180,Clothing,Negative,Returning User,34,Yes,9.0,27,3.49
+"Mild flavors, could be stronger.",5,1,U00327,2024-08-07 07:57:59.221182,Clothing,Neutral,New User,70,Yes,12.0,32,2.33
+Perfect balance of flavors.,3,3,U00328,2024-11-27 07:57:59.221185,Electronics,Positive,Returning User,61,Yes,14.0,27,7.14
+Needs improvement in texture.,2,5,U00329,2024-04-22 07:57:59.221187,Software,Neutral,Returning User,66,Yes,13.0,29,9.12
+"Very satisfying, good quality.",4,4,U00330,2025-02-08 07:57:59.221189,Service,Positive,Returning User,9,No,,30,6.12
+Needs improvement in texture.,2,5,U00331,2024-12-30 07:57:59.221191,Clothing,Positive,Returning User,16,No,,29,2.5
+Could be less oily.,5,5,U00332,2024-10-11 07:57:59.221193,Service,Negative,Returning User,24,No,,19,1.94
+"Great taste, loved it!",4,1,U00333,2024-06-02 07:57:59.221195,Food,Negative,VIP User,23,No,,22,1.7
+Too spicy for me.,5,3,U00334,2024-03-23 07:57:59.221197,Electronics,Neutral,VIP User,8,Yes,16.0,17,4.23
+"Very satisfying, good quality.",4,4,U00335,2024-07-10 07:57:59.221199,Electronics,Negative,New User,47,No,,30,8.11
+Too salty for my preference.,1,5,U00336,2024-10-25 07:57:59.221201,Clothing,Positive,Returning User,69,Yes,12.0,28,3.72
+Too spicy for me.,5,3,U00337,2024-07-19 07:57:59.221203,Food,Neutral,New User,67,Yes,30.0,17,4.62
+"Great taste, loved it!",4,1,U00338,2024-11-20 07:57:59.221205,Software,Positive,Returning User,54,Yes,5.0,22,2.13
+Portion size could be larger.,4,4,U00339,2024-11-12 07:57:59.221207,Software,Negative,New User,34,No,,29,2.5
+Great value for money.,3,5,U00340,2025-02-03 07:57:59.221208,Food,Positive,Returning User,27,No,,22,4.62
+Could be less oily.,5,5,U00341,2024-12-28 07:57:59.221210,Service,Positive,New User,43,No,,19,9.71
+Could be less oily.,5,5,U00342,2024-11-16 07:57:59.221212,Food,Negative,VIP User,50,Yes,29.0,19,2.0
+Too salty for my preference.,1,5,U00343,2024-03-28 07:57:59.221214,Software,Neutral,Returning User,3,Yes,7.0,28,6.32
+"Very satisfying, good quality.",4,4,U00344,2024-04-09 07:57:59.221216,Food,Neutral,VIP User,38,No,,30,4.26
+"Mild flavors, could be stronger.",5,1,U00345,2024-05-30 07:57:59.221218,Software,Negative,New User,25,No,,32,3.6
+Would recommend to friends!,3,3,U00346,2024-04-10 07:57:59.221220,Food,Negative,Returning User,11,No,,27,8.53
+Delicious and well-seasoned.,5,5,U00347,2024-12-10 07:57:59.221222,Software,Positive,New User,49,No,,28,3.11
+Perfect balance of flavors.,3,3,U00348,2024-06-15 07:57:59.221224,Service,Neutral,VIP User,12,Yes,12.0,27,5.52
+"Very satisfying, good quality.",4,4,U00349,2024-09-23 07:57:59.221226,Electronics,Neutral,New User,62,No,,30,1.55
+Great value for money.,3,5,U00350,2024-05-11 07:57:59.221228,Service,Neutral,Returning User,53,No,,22,8.72
+Delicious and well-seasoned.,5,5,U00351,2024-06-06 07:57:59.221230,Food,Positive,New User,44,Yes,18.0,28,8.21
+Could be less oily.,5,5,U00352,2025-03-15 07:57:59.221232,Food,Positive,Returning User,21,Yes,9.0,19,5.62
+Needs improvement in texture.,2,5,U00353,2024-10-11 07:57:59.221234,Software,Negative,Returning User,30,Yes,9.0,29,8.4
+Great value for money.,3,5,U00354,2025-01-16 07:57:59.221237,Service,Negative,VIP User,10,No,,22,6.37
+"Great taste, loved it!",4,1,U00355,2024-12-24 07:57:59.221239,Electronics,Neutral,New User,64,No,,22,5.19
+Too salty for my preference.,1,5,U00356,2024-04-09 07:57:59.221241,Software,Neutral,Returning User,17,Yes,2.0,28,4.04
+"Great taste, loved it!",4,1,U00357,2024-04-05 07:57:59.221243,Software,Negative,Returning User,67,Yes,19.0,22,2.52
+Would recommend to friends!,3,3,U00358,2024-11-16 07:57:59.221245,Software,Negative,Returning User,53,No,,27,3.85
+Great value for money.,3,5,U00359,2024-12-23 07:57:59.221247,Electronics,Positive,VIP User,45,Yes,29.0,22,6.05
+"Amazing experience, will buy again.",2,5,U00360,2024-12-10 07:57:59.221249,Clothing,Positive,VIP User,9,Yes,22.0,35,5.16
+"Amazing experience, will buy again.",2,5,U00361,2024-10-31 07:57:59.221251,Clothing,Neutral,New User,52,No,,35,9.53
+Portion size could be larger.,4,4,U00362,2024-11-21 07:57:59.221253,Software,Positive,VIP User,55,No,,29,7.46
+"Very satisfying, good quality.",4,4,U00363,2024-05-18 07:57:59.221255,Electronics,Positive,New User,20,Yes,11.0,30,1.95
+Could be less oily.,5,5,U00364,2024-05-29 07:57:59.221257,Electronics,Neutral,New User,67,Yes,11.0,19,3.87
+Could be less oily.,5,5,U00365,2024-04-17 07:57:59.221259,Service,Neutral,VIP User,61,Yes,11.0,19,1.33
+Perfect balance of flavors.,3,3,U00366,2024-04-14 07:57:59.221261,Electronics,Positive,Returning User,1,Yes,3.0,27,4.87
+Perfect balance of flavors.,3,3,U00367,2024-04-21 07:57:59.221263,Service,Negative,VIP User,26,No,,27,7.94
+Perfect balance of flavors.,3,3,U00368,2025-01-28 07:57:59.221265,Clothing,Negative,VIP User,35,Yes,21.0,27,9.23
+Needs improvement in texture.,2,5,U00369,2024-03-25 07:57:59.221267,Service,Negative,New User,71,Yes,26.0,29,3.18
+Too spicy for me.,5,3,U00370,2024-07-06 07:57:59.221269,Clothing,Negative,Returning User,47,No,,17,1.56
+Lacked freshness.,4,4,U00371,2024-10-05 07:57:59.221272,Software,Positive,New User,58,Yes,26.0,17,9.69
+Too spicy for me.,5,3,U00372,2025-02-24 07:57:59.221275,Clothing,Neutral,VIP User,56,Yes,20.0,17,4.25
+"Great taste, loved it!",4,1,U00373,2025-03-02 07:57:59.221278,Clothing,Neutral,New User,68,No,,22,5.75
+Too spicy for me.,5,3,U00374,2024-06-05 07:57:59.221281,Electronics,Neutral,New User,9,Yes,23.0,17,8.4
+Needs improvement in texture.,2,5,U00375,2024-03-23 07:57:59.221285,Food,Neutral,New User,18,Yes,26.0,29,6.85
+Portion size could be larger.,4,4,U00376,2025-03-23 07:57:59.221288,Food,Positive,Returning User,45,Yes,24.0,29,4.69
+"Great taste, loved it!",4,1,U00377,2025-03-14 07:57:59.221291,Electronics,Positive,VIP User,8,Yes,5.0,22,5.92
+Too spicy for me.,5,3,U00378,2024-06-24 07:57:59.221294,Service,Negative,VIP User,11,No,,17,8.49
+Needs improvement in texture.,2,5,U00379,2024-05-24 07:57:59.221297,Service,Positive,New User,9,Yes,15.0,29,8.63
+Lacked freshness.,4,4,U00380,2024-09-22 07:57:59.221300,Electronics,Positive,New User,30,No,,17,4.82
+Too spicy for me.,5,3,U00381,2024-03-23 07:57:59.221304,Clothing,Negative,Returning User,34,No,,17,8.67
+Needs improvement in texture.,2,5,U00382,2024-07-14 07:57:59.221307,Clothing,Positive,New User,25,No,,29,1.1
+Would recommend to friends!,3,3,U00383,2024-10-26 07:57:59.221311,Software,Negative,VIP User,57,No,,27,6.7
+Perfect balance of flavors.,3,3,U00384,2024-06-06 07:57:59.221314,Electronics,Neutral,VIP User,29,No,,27,8.03
+Would recommend to friends!,3,3,U00385,2024-12-03 07:57:59.221324,Clothing,Neutral,VIP User,39,No,,27,1.87
+Could be less oily.,5,5,U00386,2024-12-15 07:57:59.221326,Clothing,Negative,VIP User,30,No,,19,8.58
+Perfect balance of flavors.,3,3,U00387,2024-07-12 07:57:59.221328,Food,Positive,Returning User,2,No,,27,3.09
+Could be less oily.,5,5,U00388,2024-11-08 07:57:59.221329,Food,Negative,VIP User,41,Yes,30.0,19,6.15
+"Not as expected, needs improvement.",2,3,U00389,2024-06-06 07:57:59.221331,Electronics,Negative,New User,44,Yes,10.0,35,9.7
+Too salty for my preference.,1,5,U00390,2025-02-09 07:57:59.221334,Clothing,Positive,VIP User,16,Yes,20.0,28,6.07
+Would recommend to friends!,3,3,U00391,2025-02-15 07:57:59.221336,Clothing,Positive,New User,64,Yes,29.0,27,6.12
+Too salty for my preference.,1,5,U00392,2024-09-18 07:57:59.221338,Software,Negative,VIP User,5,No,,28,4.87
+Too salty for my preference.,1,5,U00393,2024-10-29 07:57:59.221340,Electronics,Negative,New User,13,Yes,15.0,28,7.83
+Lacked freshness.,4,4,U00394,2024-05-14 07:57:59.221342,Service,Positive,Returning User,16,Yes,7.0,17,4.1
+Perfect balance of flavors.,3,3,U00395,2025-01-09 07:57:59.221344,Food,Positive,Returning User,52,No,,27,1.38
+"Not as expected, needs improvement.",2,3,U00396,2024-03-24 07:57:59.221346,Food,Positive,Returning User,45,Yes,20.0,35,9.38
+Could be less oily.,5,5,U00397,2025-01-08 07:57:59.221348,Software,Negative,New User,12,No,,19,9.53
+Needs improvement in texture.,2,5,U00398,2024-06-02 07:57:59.221349,Food,Positive,New User,46,No,,29,6.53
+"Great taste, loved it!",4,1,U00399,2024-04-18 07:57:59.221351,Service,Neutral,VIP User,56,Yes,8.0,22,5.59
+Needs improvement in texture.,2,5,U00400,2024-06-14 07:57:59.221353,Service,Neutral,VIP User,2,No,,29,1.12
+"Great taste, loved it!",4,1,U00401,2024-09-25 07:57:59.221355,Software,Negative,New User,3,Yes,13.0,22,1.97
+Would recommend to friends!,3,3,U00402,2024-09-25 07:57:59.221359,Service,Positive,Returning User,18,No,,27,1.06
+"Amazing experience, will buy again.",2,5,U00403,2024-06-23 07:57:59.221361,Food,Positive,New User,3,No,,35,7.22
+Needs improvement in texture.,2,5,U00404,2024-05-17 07:57:59.221363,Software,Neutral,Returning User,42,No,,29,6.41
+Too spicy for me.,5,3,U00405,2024-10-19 07:57:59.221365,Food,Positive,Returning User,68,Yes,26.0,17,6.96
+Too spicy for me.,5,3,U00406,2024-06-07 07:57:59.221367,Food,Neutral,Returning User,18,No,,17,3.65
+"Very satisfying, good quality.",4,4,U00407,2024-08-09 07:57:59.221369,Food,Positive,New User,69,Yes,29.0,30,2.26
+Perfect balance of flavors.,3,3,U00408,2024-11-16 07:57:59.221371,Electronics,Positive,VIP User,22,Yes,5.0,27,3.5
+"Great taste, loved it!",4,1,U00409,2024-09-24 07:57:59.221373,Service,Positive,VIP User,29,Yes,28.0,22,9.75
+"Great taste, loved it!",4,1,U00410,2024-10-21 07:57:59.221375,Food,Neutral,Returning User,37,Yes,18.0,22,2.2
+Great value for money.,3,5,U00411,2024-08-07 07:57:59.221376,Electronics,Negative,Returning User,30,Yes,11.0,22,1.59
+Portion size could be larger.,4,4,U00412,2024-06-14 07:57:59.221378,Clothing,Neutral,VIP User,54,No,,29,1.57
+Perfect balance of flavors.,3,3,U00413,2024-06-01 07:57:59.221380,Software,Negative,New User,67,No,,27,6.09
+Lacked freshness.,4,4,U00414,2024-11-09 07:57:59.221382,Service,Neutral,VIP User,64,No,,17,1.61
+"Very satisfying, good quality.",4,4,U00415,2025-01-18 07:57:59.221384,Clothing,Negative,VIP User,46,Yes,11.0,30,6.07
+Lacked freshness.,4,4,U00416,2024-04-16 07:57:59.221386,Electronics,Negative,Returning User,25,Yes,21.0,17,3.82
+Would recommend to friends!,3,3,U00417,2024-12-24 07:57:59.221388,Clothing,Negative,New User,28,No,,27,5.76
+Would recommend to friends!,3,3,U00418,2025-03-07 07:57:59.221390,Clothing,Positive,Returning User,7,Yes,27.0,27,2.19
+Lacked freshness.,4,4,U00419,2024-10-10 07:57:59.221392,Service,Positive,Returning User,24,Yes,22.0,17,3.59
+Lacked freshness.,4,4,U00420,2024-05-02 07:57:59.221394,Electronics,Neutral,VIP User,63,Yes,22.0,17,2.51
+"Not as expected, needs improvement.",2,3,U00421,2024-07-05 07:57:59.221396,Software,Positive,VIP User,39,Yes,10.0,35,7.58
+Perfect balance of flavors.,3,3,U00422,2024-08-19 07:57:59.221398,Clothing,Positive,Returning User,36,Yes,30.0,27,4.17
+Lacked freshness.,4,4,U00423,2025-01-26 07:57:59.221400,Food,Neutral,New User,63,Yes,8.0,17,8.63
+Too spicy for me.,5,3,U00424,2024-04-15 07:57:59.221402,Service,Neutral,Returning User,30,No,,17,4.27
+Portion size could be larger.,4,4,U00425,2024-08-04 07:57:59.221404,Electronics,Positive,Returning User,60,No,,29,7.25
+Portion size could be larger.,4,4,U00426,2025-03-17 07:57:59.221405,Service,Negative,Returning User,21,Yes,5.0,29,8.68
+Too salty for my preference.,1,5,U00427,2024-08-06 07:57:59.221407,Electronics,Positive,Returning User,63,Yes,5.0,28,7.04
+"Amazing experience, will buy again.",2,5,U00428,2024-12-10 07:57:59.221409,Software,Negative,New User,58,Yes,30.0,35,6.0
+Would recommend to friends!,3,3,U00429,2024-08-09 07:57:59.221411,Clothing,Negative,VIP User,8,Yes,9.0,27,6.43
+"Great taste, loved it!",4,1,U00430,2024-05-29 07:57:59.221413,Clothing,Neutral,VIP User,50,No,,22,9.15
+Great value for money.,3,5,U00431,2024-09-05 07:57:59.221415,Service,Positive,New User,42,Yes,21.0,22,2.94
+"Mild flavors, could be stronger.",5,1,U00432,2025-01-14 07:57:59.221417,Clothing,Positive,New User,60,Yes,14.0,32,1.82
+"Great taste, loved it!",4,1,U00433,2024-05-07 07:57:59.221419,Food,Negative,VIP User,9,Yes,22.0,22,1.13
+"Amazing experience, will buy again.",2,5,U00434,2024-10-13 07:57:59.221421,Food,Positive,Returning User,35,No,,35,6.11
+Great value for money.,3,5,U00435,2024-05-30 07:57:59.221423,Food,Positive,VIP User,61,Yes,2.0,22,7.32
+"Not as expected, needs improvement.",2,3,U00436,2024-08-25 07:57:59.221425,Clothing,Positive,New User,35,No,,35,9.22
+Perfect balance of flavors.,3,3,U00437,2024-04-23 07:57:59.221427,Food,Neutral,Returning User,8,No,,27,4.69
+Needs improvement in texture.,2,5,U00438,2024-11-20 07:57:59.221429,Clothing,Negative,New User,3,No,,29,9.09
+Perfect balance of flavors.,3,3,U00439,2025-01-07 07:57:59.221431,Electronics,Negative,New User,51,No,,27,1.27
+"Great taste, loved it!",4,1,U00440,2025-03-22 07:57:59.221433,Food,Negative,VIP User,20,Yes,25.0,22,3.31
+"Great taste, loved it!",4,1,U00441,2024-12-15 07:57:59.221438,Electronics,Negative,New User,33,No,,22,2.11
+Great value for money.,3,5,U00442,2025-03-05 07:57:59.221441,Clothing,Positive,Returning User,31,Yes,6.0,22,7.74
+Great value for money.,3,5,U00443,2024-08-22 07:57:59.221444,Food,Neutral,Returning User,16,No,,22,1.19
+Would recommend to friends!,3,3,U00444,2024-10-26 07:57:59.221447,Clothing,Positive,New User,25,Yes,11.0,27,3.95
+"Not as expected, needs improvement.",2,3,U00445,2024-09-29 07:57:59.221450,Software,Negative,VIP User,1,No,,35,4.46
+Would recommend to friends!,3,3,U00446,2024-03-27 07:57:59.221454,Food,Neutral,New User,71,No,,27,2.34
+"Amazing experience, will buy again.",2,5,U00447,2024-03-28 07:57:59.221457,Food,Neutral,VIP User,65,Yes,20.0,35,3.69
+Lacked freshness.,4,4,U00448,2024-10-18 07:57:59.221460,Service,Positive,New User,33,No,,17,3.36
+Perfect balance of flavors.,3,3,U00449,2024-11-02 07:57:59.221463,Food,Negative,VIP User,2,No,,27,5.01
+Great value for money.,3,5,U00450,2025-03-11 07:57:59.221466,Clothing,Negative,VIP User,28,Yes,6.0,22,7.38
+Could be less oily.,5,5,U00451,2024-07-10 07:57:59.221470,Food,Neutral,VIP User,23,No,,19,3.64
+"Amazing experience, will buy again.",2,5,U00452,2024-12-23 07:57:59.221473,Food,Positive,New User,51,No,,35,1.26
+Too spicy for me.,5,3,U00453,2024-04-08 07:57:59.221477,Electronics,Negative,VIP User,36,No,,17,1.93
+"Not as expected, needs improvement.",2,3,U00454,2024-10-22 07:57:59.221479,Food,Positive,New User,7,Yes,26.0,35,4.29
+"Great taste, loved it!",4,1,U00455,2024-09-20 07:57:59.221481,Electronics,Neutral,New User,38,No,,22,3.97
+Would recommend to friends!,3,3,U00456,2024-11-07 07:57:59.221484,Software,Negative,VIP User,37,Yes,30.0,27,9.62
+"Amazing experience, will buy again.",2,5,U00457,2024-07-28 07:57:59.221487,Software,Positive,New User,67,No,,35,7.71
+"Mild flavors, could be stronger.",5,1,U00458,2024-05-21 07:57:59.221495,Software,Negative,VIP User,21,No,,32,5.63
+Perfect balance of flavors.,3,3,U00459,2024-09-19 07:57:59.221499,Service,Positive,VIP User,68,Yes,3.0,27,4.73
+Great value for money.,3,5,U00460,2024-06-25 07:57:59.221502,Service,Neutral,New User,57,Yes,24.0,22,2.25
+"Great taste, loved it!",4,1,U00461,2025-03-01 07:57:59.221505,Clothing,Positive,New User,64,Yes,25.0,22,4.15
+Needs improvement in texture.,2,5,U00462,2024-10-07 07:57:59.221508,Electronics,Neutral,New User,28,Yes,8.0,29,8.57
+"Mild flavors, could be stronger.",5,1,U00463,2024-08-26 07:57:59.221511,Clothing,Positive,VIP User,62,Yes,22.0,32,7.96
+"Not as expected, needs improvement.",2,3,U00464,2025-02-21 07:57:59.221514,Software,Positive,New User,59,Yes,17.0,35,3.45
+"Amazing experience, will buy again.",2,5,U00465,2024-08-30 07:57:59.221518,Electronics,Negative,New User,63,No,,35,5.67
+"Very satisfying, good quality.",4,4,U00466,2024-10-29 07:57:59.221521,Food,Neutral,Returning User,21,No,,30,5.47
+"Great taste, loved it!",4,1,U00467,2024-08-27 07:57:59.221524,Software,Negative,New User,16,Yes,5.0,22,3.13
+Perfect balance of flavors.,3,3,U00468,2024-08-30 07:57:59.221526,Food,Positive,VIP User,60,No,,27,7.47
+Too salty for my preference.,1,5,U00469,2025-01-30 07:57:59.221527,Electronics,Neutral,Returning User,19,Yes,16.0,28,5.72
+Could be less oily.,5,5,U00470,2024-09-16 07:57:59.221529,Electronics,Positive,Returning User,66,No,,19,7.98
+Delicious and well-seasoned.,5,5,U00471,2024-06-08 07:57:59.221531,Software,Neutral,New User,60,Yes,6.0,28,9.4
+"Mild flavors, could be stronger.",5,1,U00472,2024-09-03 07:57:59.221533,Electronics,Neutral,VIP User,48,No,,32,2.69
+Lacked freshness.,4,4,U00473,2024-08-22 07:57:59.221535,Service,Neutral,New User,7,Yes,23.0,17,5.57
+Delicious and well-seasoned.,5,5,U00474,2024-05-09 07:57:59.221537,Clothing,Negative,New User,28,Yes,2.0,28,5.63
+Perfect balance of flavors.,3,3,U00475,2024-08-14 07:57:59.221539,Clothing,Negative,Returning User,14,Yes,11.0,27,9.68
+Too spicy for me.,5,3,U00476,2024-06-20 07:57:59.221541,Software,Negative,New User,29,Yes,25.0,17,3.73
+Would recommend to friends!,3,3,U00477,2024-07-28 07:57:59.221543,Food,Negative,Returning User,10,No,,27,6.99
+Too spicy for me.,5,3,U00478,2024-05-12 07:57:59.221546,Clothing,Negative,Returning User,2,No,,17,6.15
+Too salty for my preference.,1,5,U00479,2024-05-02 07:57:59.221548,Service,Negative,New User,56,No,,28,7.19
+"Mild flavors, could be stronger.",5,1,U00480,2024-09-04 07:57:59.221550,Clothing,Neutral,Returning User,24,Yes,30.0,32,7.81
+Lacked freshness.,4,4,U00481,2024-11-09 07:57:59.221552,Electronics,Positive,VIP User,1,Yes,19.0,17,3.17
+"Very satisfying, good quality.",4,4,U00482,2024-06-19 07:57:59.221553,Clothing,Neutral,VIP User,56,No,,30,4.74
+Too salty for my preference.,1,5,U00483,2024-04-21 07:57:59.221555,Service,Positive,New User,49,No,,28,9.99
+"Mild flavors, could be stronger.",5,1,U00484,2024-10-07 07:57:59.221557,Electronics,Negative,VIP User,66,No,,32,6.01
+Portion size could be larger.,4,4,U00485,2024-06-01 07:57:59.221559,Software,Positive,VIP User,5,Yes,10.0,29,7.67
+Delicious and well-seasoned.,5,5,U00486,2024-05-13 07:57:59.221561,Software,Neutral,Returning User,41,No,,28,8.15
+Too salty for my preference.,1,5,U00487,2025-01-06 07:57:59.221563,Service,Negative,VIP User,22,Yes,28.0,28,7.65
+Delicious and well-seasoned.,5,5,U00488,2024-07-26 07:57:59.221565,Clothing,Negative,Returning User,15,Yes,2.0,28,8.29
+"Great taste, loved it!",4,1,U00489,2025-02-17 07:57:59.221567,Service,Negative,Returning User,41,Yes,9.0,22,7.51
+Too spicy for me.,5,3,U00490,2025-02-15 07:57:59.221569,Food,Neutral,New User,41,Yes,5.0,17,8.56
+"Great taste, loved it!",4,1,U00491,2024-06-22 07:57:59.221571,Service,Negative,Returning User,49,Yes,16.0,22,8.87
+Could be less oily.,5,5,U00492,2024-08-24 07:57:59.221573,Electronics,Negative,New User,38,No,,19,1.97
+Portion size could be larger.,4,4,U00493,2024-04-10 07:57:59.221575,Software,Positive,VIP User,6,No,,29,7.1
+Lacked freshness.,4,4,U00494,2024-12-29 07:57:59.221577,Service,Neutral,VIP User,36,Yes,3.0,17,6.94
+"Very satisfying, good quality.",4,4,U00495,2024-11-08 07:57:59.221579,Software,Positive,Returning User,30,No,,30,6.04
+"Not as expected, needs improvement.",2,3,U00496,2024-05-11 07:57:59.221581,Clothing,Positive,New User,32,Yes,1.0,35,3.21
+Delicious and well-seasoned.,5,5,U00497,2025-02-09 07:57:59.221582,Software,Positive,New User,62,No,,28,4.36
+"Very satisfying, good quality.",4,4,U00498,2024-09-22 07:57:59.221585,Food,Negative,Returning User,48,Yes,29.0,30,2.37
+Delicious and well-seasoned.,5,5,U00499,2024-05-25 07:57:59.221586,Software,Positive,New User,69,No,,28,5.26
+Perfect balance of flavors.,3,3,U00500,2024-09-04 07:57:59.221588,Clothing,Negative,Returning User,17,Yes,17.0,27,9.29
+Too salty for my preference.,1,5,U00501,2024-11-04 07:57:59.221590,Clothing,Positive,New User,15,Yes,1.0,28,7.76
+Could be less oily.,5,5,U00502,2025-02-16 07:57:59.221592,Food,Negative,Returning User,54,Yes,29.0,19,9.92
+Too spicy for me.,5,3,U00503,2025-01-26 07:57:59.221594,Service,Positive,New User,65,No,,17,8.57
+"Not as expected, needs improvement.",2,3,U00504,2024-10-23 07:57:59.221596,Service,Neutral,VIP User,49,Yes,27.0,35,9.26
+Great value for money.,3,5,U00505,2024-07-11 07:57:59.221598,Service,Positive,VIP User,17,No,,22,8.01
+Delicious and well-seasoned.,5,5,U00506,2024-08-24 07:57:59.221600,Electronics,Negative,VIP User,5,No,,28,3.88
+"Very satisfying, good quality.",4,4,U00507,2024-10-18 07:57:59.221601,Clothing,Negative,Returning User,8,Yes,21.0,30,9.17
+Could be less oily.,5,5,U00508,2025-02-20 07:57:59.221603,Service,Neutral,Returning User,29,No,,19,2.86
+Needs improvement in texture.,2,5,U00509,2024-06-10 07:57:59.221605,Clothing,Positive,Returning User,16,No,,29,8.65
+"Not as expected, needs improvement.",2,3,U00510,2024-12-14 07:57:59.221607,Food,Negative,VIP User,3,No,,35,4.12
+Needs improvement in texture.,2,5,U00511,2024-12-27 07:57:59.221609,Food,Positive,Returning User,18,No,,29,8.43
+"Great taste, loved it!",4,1,U00512,2025-03-03 07:57:59.221611,Software,Positive,New User,1,No,,22,2.43
+Too spicy for me.,5,3,U00513,2024-12-20 07:57:59.221613,Food,Positive,Returning User,38,No,,17,1.49
+Would recommend to friends!,3,3,U00514,2024-08-09 07:57:59.221615,Clothing,Negative,VIP User,25,Yes,23.0,27,6.63
+Would recommend to friends!,3,3,U00515,2024-05-24 07:57:59.221617,Electronics,Neutral,VIP User,66,Yes,3.0,27,4.82
+Great value for money.,3,5,U00516,2024-12-08 07:57:59.221619,Service,Neutral,Returning User,46,No,,22,2.76
+Perfect balance of flavors.,3,3,U00517,2024-12-26 07:57:59.221621,Clothing,Negative,VIP User,51,No,,27,5.71
+"Very satisfying, good quality.",4,4,U00518,2024-03-24 07:57:59.221623,Software,Positive,New User,51,No,,30,4.43
+"Mild flavors, could be stronger.",5,1,U00519,2025-03-01 07:57:59.221625,Clothing,Negative,VIP User,37,No,,32,9.01
+Great value for money.,3,5,U00520,2024-05-11 07:57:59.221627,Software,Neutral,VIP User,6,No,,22,2.44
+Too salty for my preference.,1,5,U00521,2024-11-03 07:57:59.221629,Electronics,Negative,New User,25,Yes,5.0,28,3.14
+Too salty for my preference.,1,5,U00522,2024-10-26 07:57:59.221631,Food,Positive,Returning User,41,Yes,23.0,28,7.4
+"Very satisfying, good quality.",4,4,U00523,2024-09-25 07:57:59.221633,Food,Negative,New User,18,Yes,4.0,30,9.84
+"Mild flavors, could be stronger.",5,1,U00524,2024-07-22 07:57:59.221635,Electronics,Neutral,VIP User,48,No,,32,9.3
+Lacked freshness.,4,4,U00525,2024-11-23 07:57:59.221636,Food,Negative,New User,59,Yes,2.0,17,2.3
+Perfect balance of flavors.,3,3,U00526,2024-04-21 07:57:59.221638,Software,Negative,VIP User,16,No,,27,8.1
+Could be less oily.,5,5,U00527,2024-06-23 07:57:59.221640,Clothing,Positive,New User,26,Yes,27.0,19,8.18
+Delicious and well-seasoned.,5,5,U00528,2025-01-09 07:57:59.221642,Clothing,Positive,VIP User,63,No,,28,7.21
+"Mild flavors, could be stronger.",5,1,U00529,2024-12-10 07:57:59.221644,Clothing,Negative,Returning User,34,Yes,4.0,32,6.53
+Would recommend to friends!,3,3,U00530,2024-04-28 07:57:59.221646,Service,Negative,Returning User,46,No,,27,2.5
+"Not as expected, needs improvement.",2,3,U00531,2024-05-20 07:57:59.221648,Clothing,Neutral,VIP User,51,No,,35,1.77
+Lacked freshness.,4,4,U00532,2024-04-18 07:57:59.221650,Service,Negative,VIP User,52,Yes,25.0,17,4.92
+Delicious and well-seasoned.,5,5,U00533,2025-03-11 07:57:59.221652,Food,Neutral,VIP User,4,No,,28,3.52
+Delicious and well-seasoned.,5,5,U00534,2025-03-16 07:57:59.221654,Software,Negative,Returning User,3,Yes,27.0,28,2.0
+Lacked freshness.,4,4,U00535,2024-08-24 07:57:59.221656,Service,Negative,New User,18,No,,17,3.57
+"Great taste, loved it!",4,1,U00536,2024-11-22 07:57:59.221658,Software,Positive,VIP User,70,Yes,18.0,22,3.46
+Needs improvement in texture.,2,5,U00537,2024-11-09 07:57:59.221660,Software,Neutral,VIP User,31,No,,29,1.15
+Delicious and well-seasoned.,5,5,U00538,2024-07-22 07:57:59.221661,Service,Negative,New User,6,No,,28,3.4
+Lacked freshness.,4,4,U00539,2024-03-27 07:57:59.221663,Food,Neutral,VIP User,53,Yes,4.0,17,1.98
+"Mild flavors, could be stronger.",5,1,U00540,2024-05-17 07:57:59.221665,Electronics,Positive,Returning User,29,No,,32,2.67
+Lacked freshness.,4,4,U00541,2024-10-20 07:57:59.221667,Service,Positive,VIP User,59,No,,17,4.17
+Portion size could be larger.,4,4,U00542,2024-09-06 07:57:59.221669,Electronics,Negative,VIP User,29,Yes,21.0,29,7.45
+Great value for money.,3,5,U00543,2024-06-05 07:57:59.221671,Clothing,Negative,New User,65,Yes,21.0,22,1.06
+"Amazing experience, will buy again.",2,5,U00544,2025-02-13 07:57:59.221673,Software,Neutral,VIP User,29,Yes,11.0,35,5.58
+"Great taste, loved it!",4,1,U00545,2024-06-20 07:57:59.221675,Food,Neutral,Returning User,27,No,,22,3.01
+Too spicy for me.,5,3,U00546,2024-05-20 07:57:59.221677,Electronics,Positive,New User,33,No,,17,2.92
+"Amazing experience, will buy again.",2,5,U00547,2024-04-30 07:57:59.221679,Service,Neutral,VIP User,50,No,,35,4.2
+Great value for money.,3,5,U00548,2024-04-04 07:57:59.221681,Food,Positive,New User,17,Yes,28.0,22,6.0
+Great value for money.,3,5,U00549,2024-12-14 07:57:59.221683,Software,Positive,New User,70,Yes,28.0,22,4.79
+Great value for money.,3,5,U00550,2024-09-09 07:57:59.221685,Clothing,Positive,New User,24,No,,22,4.82
+"Amazing experience, will buy again.",2,5,U00551,2024-08-28 07:57:59.221688,Software,Neutral,VIP User,9,Yes,7.0,35,5.18
+"Very satisfying, good quality.",4,4,U00552,2025-01-22 07:57:59.221691,Service,Negative,New User,1,Yes,22.0,30,9.48
+Needs improvement in texture.,2,5,U00553,2024-12-15 07:57:59.221695,Clothing,Positive,New User,25,No,,29,4.28
+Lacked freshness.,4,4,U00554,2024-09-24 07:57:59.221698,Software,Neutral,Returning User,14,No,,17,5.43
+"Not as expected, needs improvement.",2,3,U00555,2024-12-31 07:57:59.221701,Software,Positive,VIP User,49,Yes,19.0,35,5.88
+Needs improvement in texture.,2,5,U00556,2024-07-11 07:57:59.221705,Software,Neutral,VIP User,53,No,,29,9.98
+Would recommend to friends!,3,3,U00557,2024-12-04 07:57:59.221708,Service,Positive,VIP User,22,Yes,29.0,27,8.48
+"Mild flavors, could be stronger.",5,1,U00558,2024-06-21 07:57:59.221711,Electronics,Negative,Returning User,71,Yes,20.0,32,9.33
+Perfect balance of flavors.,3,3,U00559,2024-07-14 07:57:59.221714,Software,Neutral,New User,24,Yes,6.0,27,3.06
+"Very satisfying, good quality.",4,4,U00560,2024-06-04 07:57:59.221717,Electronics,Positive,VIP User,2,Yes,27.0,30,8.86
+Too spicy for me.,5,3,U00561,2024-11-06 07:57:59.221723,Food,Neutral,VIP User,69,Yes,13.0,17,6.33
+Needs improvement in texture.,2,5,U00562,2024-12-07 07:57:59.221726,Clothing,Negative,New User,53,Yes,25.0,29,8.96
+"Not as expected, needs improvement.",2,3,U00563,2024-10-24 07:57:59.221728,Electronics,Negative,VIP User,54,No,,35,5.44
+Too salty for my preference.,1,5,U00564,2025-01-26 07:57:59.221730,Software,Positive,Returning User,41,Yes,13.0,28,2.34
+Great value for money.,3,5,U00565,2024-07-12 07:57:59.221732,Service,Positive,New User,55,No,,22,5.6
+Delicious and well-seasoned.,5,5,U00566,2024-10-07 07:57:59.221734,Clothing,Neutral,VIP User,51,No,,28,8.76
+Would recommend to friends!,3,3,U00567,2024-06-21 07:57:59.221736,Software,Negative,Returning User,51,No,,27,6.05
+Perfect balance of flavors.,3,3,U00568,2024-05-26 07:57:59.221738,Food,Positive,New User,58,No,,27,2.06
+"Great taste, loved it!",4,1,U00569,2024-05-16 07:57:59.221740,Service,Negative,New User,54,Yes,22.0,22,1.54
+Too spicy for me.,5,3,U00570,2024-03-28 07:57:59.221742,Software,Neutral,New User,12,No,,17,1.38
+"Mild flavors, could be stronger.",5,1,U00571,2024-10-09 07:57:59.221744,Clothing,Positive,VIP User,45,Yes,21.0,32,3.43
+Perfect balance of flavors.,3,3,U00572,2024-10-10 07:57:59.221746,Software,Positive,VIP User,1,No,,27,3.17
+Great value for money.,3,5,U00573,2025-01-12 07:57:59.221748,Electronics,Neutral,VIP User,58,No,,22,1.39
+Delicious and well-seasoned.,5,5,U00574,2024-04-03 07:57:59.221750,Software,Positive,New User,12,Yes,27.0,28,6.01
+"Very satisfying, good quality.",4,4,U00575,2024-03-26 07:57:59.221752,Electronics,Neutral,Returning User,5,No,,30,2.56
+Delicious and well-seasoned.,5,5,U00576,2024-11-30 07:57:59.221754,Electronics,Positive,New User,10,No,,28,3.2
+"Amazing experience, will buy again.",2,5,U00577,2024-08-21 07:57:59.221756,Service,Neutral,New User,40,No,,35,1.2
+Delicious and well-seasoned.,5,5,U00578,2024-06-25 07:57:59.221758,Service,Neutral,Returning User,14,No,,28,9.5
+"Amazing experience, will buy again.",2,5,U00579,2024-03-23 07:57:59.221759,Food,Negative,Returning User,52,No,,35,1.44
+Would recommend to friends!,3,3,U00580,2025-02-23 07:57:59.221762,Food,Positive,Returning User,6,No,,27,6.35
+"Very satisfying, good quality.",4,4,U00581,2024-12-19 07:57:59.221764,Clothing,Negative,New User,51,Yes,15.0,30,3.04
+"Mild flavors, could be stronger.",5,1,U00582,2024-05-30 07:57:59.221765,Electronics,Negative,New User,29,No,,32,8.17
+Could be less oily.,5,5,U00583,2024-11-28 07:57:59.221767,Service,Negative,VIP User,54,Yes,23.0,19,1.23
+Great value for money.,3,5,U00584,2025-01-26 07:57:59.221769,Electronics,Neutral,VIP User,20,Yes,4.0,22,6.11
+"Amazing experience, will buy again.",2,5,U00585,2024-11-05 07:57:59.221771,Electronics,Neutral,Returning User,19,Yes,27.0,35,3.9
+"Great taste, loved it!",4,1,U00586,2024-07-02 07:57:59.221773,Software,Positive,New User,51,No,,22,9.65
+Delicious and well-seasoned.,5,5,U00587,2025-02-11 07:57:59.221775,Software,Negative,Returning User,52,Yes,1.0,28,1.18
+Delicious and well-seasoned.,5,5,U00588,2025-01-29 07:57:59.221777,Clothing,Neutral,VIP User,58,No,,28,4.42
+"Great taste, loved it!",4,1,U00589,2025-02-03 07:57:59.221779,Software,Positive,Returning User,53,Yes,22.0,22,6.11
+"Mild flavors, could be stronger.",5,1,U00590,2024-09-22 07:57:59.221781,Electronics,Positive,Returning User,53,No,,32,3.89
+Too salty for my preference.,1,5,U00591,2024-07-28 07:57:59.221783,Clothing,Negative,VIP User,3,Yes,5.0,28,7.85
+Would recommend to friends!,3,3,U00592,2024-11-22 07:57:59.221785,Food,Neutral,New User,54,Yes,6.0,27,3.2
+Lacked freshness.,4,4,U00593,2024-10-11 07:57:59.221787,Service,Positive,VIP User,3,Yes,18.0,17,2.26
+Could be less oily.,5,5,U00594,2024-05-26 07:57:59.221789,Software,Neutral,VIP User,31,No,,19,8.78
+Too spicy for me.,5,3,U00595,2024-12-22 07:57:59.221791,Software,Positive,New User,54,Yes,28.0,17,6.69
+"Not as expected, needs improvement.",2,3,U00596,2025-02-05 07:57:59.221793,Clothing,Negative,Returning User,54,Yes,10.0,35,7.38
+"Amazing experience, will buy again.",2,5,U00597,2024-07-22 07:57:59.221795,Electronics,Negative,Returning User,31,No,,35,3.97
+"Great taste, loved it!",4,1,U00598,2024-06-02 07:57:59.221798,Electronics,Neutral,VIP User,25,No,,22,5.05
+"Not as expected, needs improvement.",2,3,U00599,2024-05-02 07:57:59.221800,Service,Positive,VIP User,41,Yes,27.0,35,9.38
+"Very satisfying, good quality.",4,4,U00600,2024-07-11 07:57:59.221802,Electronics,Neutral,VIP User,1,Yes,4.0,30,7.55
+"Mild flavors, could be stronger.",5,1,U00601,2024-09-08 07:57:59.221803,Food,Neutral,Returning User,15,Yes,2.0,32,2.19
+"Amazing experience, will buy again.",2,5,U00602,2025-01-06 07:57:59.221805,Service,Negative,New User,40,No,,35,1.91
+Lacked freshness.,4,4,U00603,2025-01-13 07:57:59.221807,Software,Negative,Returning User,60,No,,17,1.67
+"Not as expected, needs improvement.",2,3,U00604,2024-11-02 07:57:59.221809,Service,Neutral,VIP User,36,No,,35,1.12
+"Very satisfying, good quality.",4,4,U00605,2025-03-12 07:57:59.221811,Clothing,Negative,Returning User,12,No,,30,5.65
+Perfect balance of flavors.,3,3,U00606,2025-02-07 07:57:59.221813,Food,Neutral,New User,48,No,,27,2.15
+Great value for money.,3,5,U00607,2024-06-10 07:57:59.221814,Food,Negative,Returning User,50,No,,22,4.92
+Delicious and well-seasoned.,5,5,U00608,2024-08-18 07:57:59.221816,Electronics,Negative,VIP User,28,Yes,23.0,28,2.99
+Perfect balance of flavors.,3,3,U00609,2024-08-28 07:57:59.221818,Software,Positive,Returning User,51,No,,27,6.66
+"Amazing experience, will buy again.",2,5,U00610,2024-06-29 07:57:59.221821,Software,Positive,VIP User,6,No,,35,6.91
+Lacked freshness.,4,4,U00611,2024-10-17 07:57:59.221823,Food,Negative,VIP User,3,Yes,16.0,17,6.86
+Could be less oily.,5,5,U00612,2024-12-05 07:57:59.221825,Clothing,Negative,VIP User,59,Yes,6.0,19,2.06
+"Not as expected, needs improvement.",2,3,U00613,2024-07-11 07:57:59.221826,Electronics,Neutral,New User,27,No,,35,7.71
+Would recommend to friends!,3,3,U00614,2025-02-24 07:57:59.221829,Electronics,Negative,Returning User,13,Yes,30.0,27,3.12
+Great value for money.,3,5,U00615,2024-10-02 07:57:59.221831,Software,Positive,Returning User,56,Yes,1.0,22,5.83
+"Amazing experience, will buy again.",2,5,U00616,2024-04-25 07:57:59.221833,Clothing,Negative,New User,71,No,,35,2.86
+"Mild flavors, could be stronger.",5,1,U00617,2025-03-01 07:57:59.221835,Food,Positive,Returning User,61,No,,32,8.2
+"Great taste, loved it!",4,1,U00618,2025-02-22 07:57:59.221836,Food,Neutral,New User,66,Yes,22.0,22,9.23
+Would recommend to friends!,3,3,U00619,2025-01-07 07:57:59.221838,Food,Positive,VIP User,71,No,,27,5.85
+Would recommend to friends!,3,3,U00620,2024-08-12 07:57:59.221840,Electronics,Negative,New User,3,No,,27,7.54
+Would recommend to friends!,3,3,U00621,2024-12-21 07:57:59.221842,Software,Positive,VIP User,33,No,,27,4.91
+Needs improvement in texture.,2,5,U00622,2025-03-10 07:57:59.221844,Software,Neutral,Returning User,38,Yes,25.0,29,5.08
+"Amazing experience, will buy again.",2,5,U00623,2024-05-19 07:57:59.221846,Service,Neutral,New User,27,Yes,13.0,35,6.41
+Great value for money.,3,5,U00624,2025-02-26 07:57:59.221848,Clothing,Negative,Returning User,30,Yes,5.0,22,5.15
+Delicious and well-seasoned.,5,5,U00625,2024-09-02 07:57:59.221850,Software,Positive,Returning User,13,No,,28,1.4
+Delicious and well-seasoned.,5,5,U00626,2025-02-07 07:57:59.221852,Service,Negative,New User,71,Yes,10.0,28,4.09
+"Amazing experience, will buy again.",2,5,U00627,2025-03-09 07:57:59.221854,Electronics,Neutral,VIP User,6,Yes,11.0,35,3.88
+"Very satisfying, good quality.",4,4,U00628,2024-10-03 07:57:59.221855,Food,Neutral,Returning User,6,Yes,28.0,30,9.23
+Needs improvement in texture.,2,5,U00629,2025-01-24 07:57:59.221857,Food,Positive,VIP User,17,No,,29,9.47
+"Great taste, loved it!",4,1,U00630,2024-05-01 07:57:59.221859,Service,Negative,New User,20,No,,22,3.27
+Would recommend to friends!,3,3,U00631,2024-10-26 07:57:59.221861,Software,Negative,Returning User,3,No,,27,5.54
+Would recommend to friends!,3,3,U00632,2024-04-24 07:57:59.221863,Food,Positive,New User,70,No,,27,5.41
+"Amazing experience, will buy again.",2,5,U00633,2024-09-21 07:57:59.221865,Service,Negative,New User,5,No,,35,9.38
+"Very satisfying, good quality.",4,4,U00634,2024-08-13 07:57:59.221867,Service,Negative,VIP User,21,No,,30,5.07
+Delicious and well-seasoned.,5,5,U00635,2024-12-01 07:57:59.221869,Clothing,Neutral,New User,14,No,,28,4.4
+Delicious and well-seasoned.,5,5,U00636,2024-04-04 07:57:59.221871,Food,Positive,Returning User,9,Yes,25.0,28,2.21
+Lacked freshness.,4,4,U00637,2025-01-21 07:57:59.221873,Software,Neutral,Returning User,37,Yes,26.0,17,1.39
+"Amazing experience, will buy again.",2,5,U00638,2024-10-22 07:57:59.221875,Software,Positive,VIP User,51,No,,35,5.53
+Needs improvement in texture.,2,5,U00639,2024-10-18 07:57:59.221876,Electronics,Neutral,New User,44,No,,29,8.78
+Too salty for my preference.,1,5,U00640,2024-08-16 07:57:59.221878,Food,Negative,New User,27,Yes,16.0,28,8.69
+Needs improvement in texture.,2,5,U00641,2025-03-02 07:57:59.221880,Clothing,Negative,Returning User,8,Yes,6.0,29,9.6
+"Mild flavors, could be stronger.",5,1,U00642,2024-10-18 07:57:59.221882,Food,Neutral,New User,38,No,,32,8.99
+Delicious and well-seasoned.,5,5,U00643,2025-02-25 07:57:59.221884,Software,Negative,Returning User,17,Yes,4.0,28,2.37
+Delicious and well-seasoned.,5,5,U00644,2024-05-12 07:57:59.221886,Software,Neutral,VIP User,23,Yes,11.0,28,5.81
+Perfect balance of flavors.,3,3,U00645,2024-09-15 07:57:59.221888,Electronics,Neutral,VIP User,53,Yes,24.0,27,3.95
+Delicious and well-seasoned.,5,5,U00646,2024-11-12 07:57:59.221890,Food,Neutral,Returning User,50,Yes,21.0,28,2.88
+"Great taste, loved it!",4,1,U00647,2024-05-21 07:57:59.221892,Service,Negative,Returning User,57,No,,22,8.01
+Too spicy for me.,5,3,U00648,2024-12-01 07:57:59.221894,Food,Negative,Returning User,8,No,,17,5.8
+"Amazing experience, will buy again.",2,5,U00649,2024-12-06 07:57:59.221896,Software,Positive,New User,38,Yes,10.0,35,5.88
+"Not as expected, needs improvement.",2,3,U00650,2024-07-20 07:57:59.221898,Food,Positive,VIP User,33,Yes,14.0,35,7.85
+Needs improvement in texture.,2,5,U00651,2024-05-20 07:57:59.221900,Software,Negative,New User,2,No,,29,6.03
+Too spicy for me.,5,3,U00652,2024-04-25 07:57:59.221902,Service,Positive,Returning User,66,No,,17,5.17
+"Very satisfying, good quality.",4,4,U00653,2024-12-02 07:57:59.221904,Service,Positive,VIP User,6,No,,30,9.87
+Too salty for my preference.,1,5,U00654,2025-02-19 07:57:59.221906,Clothing,Neutral,Returning User,31,No,,28,9.13
+"Great taste, loved it!",4,1,U00655,2024-06-02 07:57:59.221908,Electronics,Neutral,New User,44,Yes,16.0,22,5.55
+Great value for money.,3,5,U00656,2024-10-07 07:57:59.221909,Software,Positive,New User,3,Yes,3.0,22,4.0
+Portion size could be larger.,4,4,U00657,2024-10-25 07:57:59.221911,Food,Negative,Returning User,36,No,,29,9.89
+Needs improvement in texture.,2,5,U00658,2024-04-12 07:57:59.221913,Service,Positive,New User,62,No,,29,6.07
+Too spicy for me.,5,3,U00659,2024-09-18 07:57:59.221915,Electronics,Neutral,Returning User,40,No,,17,1.5
+Great value for money.,3,5,U00660,2024-07-02 07:57:59.221917,Software,Negative,Returning User,29,Yes,30.0,22,5.54
+Too salty for my preference.,1,5,U00661,2024-09-02 07:57:59.221919,Software,Negative,New User,50,No,,28,3.57
+Perfect balance of flavors.,3,3,U00662,2024-11-19 07:57:59.221921,Food,Positive,Returning User,42,Yes,6.0,27,7.89
+Great value for money.,3,5,U00663,2024-06-18 07:57:59.221923,Food,Neutral,VIP User,34,Yes,21.0,22,7.34
+"Great taste, loved it!",4,1,U00664,2024-05-21 07:57:59.221925,Service,Negative,VIP User,58,No,,22,6.03
+"Great taste, loved it!",4,1,U00665,2024-04-10 07:57:59.221927,Software,Neutral,Returning User,64,No,,22,9.75
+"Not as expected, needs improvement.",2,3,U00666,2024-05-09 07:57:59.221929,Food,Negative,Returning User,61,Yes,16.0,35,2.86
+Perfect balance of flavors.,3,3,U00667,2024-07-20 07:57:59.221931,Food,Positive,New User,7,No,,27,1.99
+Portion size could be larger.,4,4,U00668,2024-10-09 07:57:59.221933,Food,Positive,VIP User,27,Yes,30.0,29,6.92
+"Amazing experience, will buy again.",2,5,U00669,2024-12-29 07:57:59.221935,Electronics,Negative,New User,43,Yes,16.0,35,8.75
+Great value for money.,3,5,U00670,2024-12-29 07:57:59.221937,Food,Neutral,New User,31,Yes,2.0,22,9.83
+Perfect balance of flavors.,3,3,U00671,2024-11-20 07:57:59.221938,Food,Neutral,VIP User,65,Yes,8.0,27,5.63
+"Great taste, loved it!",4,1,U00672,2024-05-04 07:57:59.221940,Service,Negative,New User,9,Yes,9.0,22,4.05
+"Great taste, loved it!",4,1,U00673,2024-07-03 07:57:59.221942,Service,Neutral,Returning User,29,Yes,28.0,22,8.32
+Too spicy for me.,5,3,U00674,2024-06-19 07:57:59.221944,Service,Negative,VIP User,7,Yes,12.0,17,4.87
+Delicious and well-seasoned.,5,5,U00675,2024-05-09 07:57:59.221946,Clothing,Positive,Returning User,45,Yes,1.0,28,3.75
+Portion size could be larger.,4,4,U00676,2024-09-29 07:57:59.221948,Clothing,Positive,Returning User,27,No,,29,7.58
+Great value for money.,3,5,U00677,2024-10-21 07:57:59.221950,Food,Positive,Returning User,39,No,,22,1.07
+"Not as expected, needs improvement.",2,3,U00678,2025-03-09 07:57:59.221952,Food,Neutral,New User,8,No,,35,7.93
+"Not as expected, needs improvement.",2,3,U00679,2024-04-08 07:57:59.221954,Food,Negative,VIP User,42,Yes,13.0,35,1.46
+Great value for money.,3,5,U00680,2024-06-16 07:57:59.221956,Clothing,Positive,VIP User,6,No,,22,2.26
+"Mild flavors, could be stronger.",5,1,U00681,2024-04-01 07:57:59.221958,Food,Negative,New User,70,Yes,29.0,32,4.49
+Would recommend to friends!,3,3,U00682,2025-01-14 07:57:59.221960,Software,Positive,Returning User,52,Yes,26.0,27,4.96
+Too salty for my preference.,1,5,U00683,2024-09-02 07:57:59.221962,Software,Neutral,New User,38,No,,28,7.18
+"Not as expected, needs improvement.",2,3,U00684,2024-06-16 07:57:59.221964,Clothing,Neutral,VIP User,39,Yes,27.0,35,5.58
+Perfect balance of flavors.,3,3,U00685,2024-09-15 07:57:59.221966,Software,Positive,Returning User,38,Yes,16.0,27,5.74
+Too salty for my preference.,1,5,U00686,2024-05-06 07:57:59.221968,Food,Neutral,Returning User,4,No,,28,8.05
+Perfect balance of flavors.,3,3,U00687,2024-05-15 07:57:59.221969,Electronics,Negative,Returning User,24,No,,27,5.72
+"Very satisfying, good quality.",4,4,U00688,2024-12-02 07:57:59.221971,Food,Positive,VIP User,38,Yes,23.0,30,4.41
+"Great taste, loved it!",4,1,U00689,2024-12-29 07:57:59.221973,Service,Neutral,Returning User,14,No,,22,6.18
+Delicious and well-seasoned.,5,5,U00690,2024-08-31 07:57:59.221975,Service,Negative,New User,52,No,,28,2.24
+Too spicy for me.,5,3,U00691,2024-07-05 07:57:59.221977,Software,Neutral,VIP User,36,Yes,18.0,17,6.98
+"Not as expected, needs improvement.",2,3,U00692,2024-04-27 07:57:59.221979,Clothing,Neutral,Returning User,19,No,,35,9.72
+Delicious and well-seasoned.,5,5,U00693,2024-09-13 07:57:59.221982,Service,Negative,Returning User,26,No,,28,8.68
+Delicious and well-seasoned.,5,5,U00694,2025-02-15 07:57:59.221984,Software,Neutral,VIP User,1,Yes,18.0,28,7.49
+Delicious and well-seasoned.,5,5,U00695,2024-09-23 07:57:59.221986,Electronics,Neutral,VIP User,60,Yes,23.0,28,7.11
+Would recommend to friends!,3,3,U00696,2024-11-30 07:57:59.221988,Service,Negative,VIP User,70,No,,27,7.49
+Too salty for my preference.,1,5,U00697,2025-03-07 07:57:59.221990,Software,Positive,VIP User,33,No,,28,8.51
+Perfect balance of flavors.,3,3,U00698,2024-10-18 07:57:59.221992,Clothing,Negative,New User,36,No,,27,1.46
+Could be less oily.,5,5,U00699,2024-06-21 07:57:59.221993,Electronics,Positive,Returning User,29,Yes,10.0,19,2.45
+"Very satisfying, good quality.",4,4,U00700,2024-07-03 07:57:59.221995,Clothing,Positive,VIP User,65,Yes,10.0,30,4.29
+Needs improvement in texture.,2,5,U00701,2024-05-18 07:57:59.221997,Software,Neutral,New User,3,Yes,24.0,29,2.99
+Delicious and well-seasoned.,5,5,U00702,2024-12-20 07:57:59.221999,Service,Negative,Returning User,12,Yes,9.0,28,6.85
+"Amazing experience, will buy again.",2,5,U00703,2024-06-09 07:57:59.222001,Food,Negative,New User,17,Yes,13.0,35,5.87
+Too salty for my preference.,1,5,U00704,2024-10-08 07:57:59.222003,Clothing,Negative,Returning User,57,No,,28,4.56
+"Not as expected, needs improvement.",2,3,U00705,2025-01-01 07:57:59.222005,Food,Positive,Returning User,2,Yes,6.0,35,5.76
+Portion size could be larger.,4,4,U00706,2025-03-03 07:57:59.222007,Clothing,Neutral,New User,64,No,,29,1.74
+"Not as expected, needs improvement.",2,3,U00707,2024-10-05 07:57:59.222009,Food,Negative,Returning User,20,Yes,12.0,35,1.17
+Too spicy for me.,5,3,U00708,2024-10-17 07:57:59.222010,Service,Positive,New User,13,Yes,22.0,17,5.08
+Needs improvement in texture.,2,5,U00709,2024-07-19 07:57:59.222012,Food,Negative,New User,53,Yes,30.0,29,7.89
+Could be less oily.,5,5,U00710,2024-08-29 07:57:59.222014,Food,Positive,New User,9,No,,19,8.39
+"Amazing experience, will buy again.",2,5,U00711,2024-09-19 07:57:59.222016,Service,Negative,Returning User,4,Yes,21.0,35,4.8
+"Not as expected, needs improvement.",2,3,U00712,2024-07-03 07:57:59.222018,Clothing,Positive,New User,8,No,,35,5.13
+Could be less oily.,5,5,U00713,2025-02-03 07:57:59.222020,Clothing,Neutral,New User,66,Yes,9.0,19,7.67
+Needs improvement in texture.,2,5,U00714,2024-03-23 07:57:59.222022,Food,Positive,Returning User,21,Yes,10.0,29,8.74
+Delicious and well-seasoned.,5,5,U00715,2024-10-06 07:57:59.222024,Food,Positive,Returning User,25,No,,28,5.08
+"Amazing experience, will buy again.",2,5,U00716,2024-07-31 07:57:59.222026,Electronics,Neutral,Returning User,68,Yes,21.0,35,4.91
+Could be less oily.,5,5,U00717,2024-05-22 07:57:59.222028,Electronics,Negative,New User,59,Yes,29.0,19,4.4
+Too spicy for me.,5,3,U00718,2025-03-14 07:57:59.222030,Electronics,Negative,Returning User,12,Yes,22.0,17,2.46
+Perfect balance of flavors.,3,3,U00719,2024-06-29 07:57:59.222032,Electronics,Negative,VIP User,21,Yes,14.0,27,3.79
+"Great taste, loved it!",4,1,U00720,2024-04-20 07:57:59.222034,Clothing,Positive,VIP User,9,No,,22,4.12
+Perfect balance of flavors.,3,3,U00721,2024-07-11 07:57:59.222036,Food,Positive,Returning User,69,Yes,28.0,27,9.29
+Needs improvement in texture.,2,5,U00722,2024-12-03 07:57:59.222038,Service,Positive,New User,33,No,,29,9.44
+Too salty for my preference.,1,5,U00723,2024-11-28 07:57:59.222040,Clothing,Neutral,New User,28,No,,28,3.51
+"Great taste, loved it!",4,1,U00724,2025-02-13 07:57:59.222042,Clothing,Neutral,Returning User,61,Yes,11.0,22,9.85
+"Very satisfying, good quality.",4,4,U00725,2024-06-19 07:57:59.222044,Clothing,Negative,Returning User,47,No,,30,6.07
+Too spicy for me.,5,3,U00726,2024-10-09 07:57:59.222046,Electronics,Negative,Returning User,1,Yes,12.0,17,9.12
+"Very satisfying, good quality.",4,4,U00727,2024-10-25 07:57:59.222047,Clothing,Negative,Returning User,68,Yes,20.0,30,5.1
+Would recommend to friends!,3,3,U00728,2025-02-09 07:57:59.222049,Clothing,Neutral,VIP User,15,Yes,29.0,27,5.82
+"Amazing experience, will buy again.",2,5,U00729,2024-12-15 07:57:59.222051,Service,Neutral,Returning User,25,Yes,4.0,35,3.9
+Great value for money.,3,5,U00730,2024-12-27 07:57:59.222053,Clothing,Positive,Returning User,19,Yes,3.0,22,4.98
+"Great taste, loved it!",4,1,U00731,2024-06-04 07:57:59.222055,Food,Neutral,VIP User,47,No,,22,9.28
+"Very satisfying, good quality.",4,4,U00732,2024-12-26 07:57:59.222057,Electronics,Positive,Returning User,27,Yes,17.0,30,2.58
+"Not as expected, needs improvement.",2,3,U00733,2024-09-19 07:57:59.222059,Food,Positive,Returning User,29,Yes,21.0,35,3.14
+"Very satisfying, good quality.",4,4,U00734,2024-08-22 07:57:59.222061,Electronics,Neutral,New User,69,No,,30,4.17
+Could be less oily.,5,5,U00735,2025-03-11 07:57:59.222063,Clothing,Neutral,New User,44,No,,19,1.48
+Perfect balance of flavors.,3,3,U00736,2024-11-28 07:57:59.222064,Software,Negative,Returning User,64,Yes,19.0,27,7.94
+Could be less oily.,5,5,U00737,2025-01-03 07:57:59.222066,Food,Neutral,Returning User,21,No,,19,8.33
+Would recommend to friends!,3,3,U00738,2024-09-25 07:57:59.222068,Food,Negative,VIP User,30,Yes,8.0,27,7.97
+"Great taste, loved it!",4,1,U00739,2024-07-24 07:57:59.222070,Clothing,Negative,New User,34,No,,22,2.99
+"Great taste, loved it!",4,1,U00740,2024-06-25 07:57:59.222073,Software,Negative,Returning User,39,Yes,10.0,22,5.1
+Would recommend to friends!,3,3,U00741,2024-05-14 07:57:59.222075,Electronics,Neutral,New User,39,No,,27,5.84
+Needs improvement in texture.,2,5,U00742,2025-03-20 07:57:59.222077,Service,Positive,VIP User,61,Yes,30.0,29,1.59
+Could be less oily.,5,5,U00743,2024-07-24 07:57:59.222079,Software,Positive,Returning User,24,Yes,19.0,19,6.88
+Lacked freshness.,4,4,U00744,2025-03-13 07:57:59.222081,Electronics,Negative,VIP User,58,No,,17,2.29
+"Not as expected, needs improvement.",2,3,U00745,2024-07-25 07:57:59.222083,Service,Negative,New User,64,Yes,14.0,35,4.77
+Portion size could be larger.,4,4,U00746,2024-08-29 07:57:59.222084,Food,Negative,Returning User,35,No,,29,9.88
+Perfect balance of flavors.,3,3,U00747,2024-10-01 07:57:59.222086,Food,Negative,VIP User,18,Yes,1.0,27,5.04
+"Great taste, loved it!",4,1,U00748,2024-04-11 07:57:59.222088,Service,Positive,VIP User,64,No,,22,6.13
+Needs improvement in texture.,2,5,U00749,2025-03-02 07:57:59.222091,Software,Negative,Returning User,55,Yes,29.0,29,5.25
+Great value for money.,3,5,U00750,2024-07-31 07:57:59.222092,Food,Negative,New User,65,No,,22,9.11
+"Not as expected, needs improvement.",2,3,U00751,2024-11-22 07:57:59.222094,Food,Neutral,New User,46,Yes,16.0,35,8.43
+Could be less oily.,5,5,U00752,2024-08-02 07:57:59.222096,Food,Neutral,Returning User,30,Yes,2.0,19,1.82
+Perfect balance of flavors.,3,3,U00753,2024-10-06 07:57:59.222098,Service,Neutral,New User,15,Yes,13.0,27,8.04
+Great value for money.,3,5,U00754,2025-01-12 07:57:59.222100,Food,Negative,VIP User,6,Yes,5.0,22,8.5
+Could be less oily.,5,5,U00755,2025-03-19 07:57:59.222102,Electronics,Negative,Returning User,61,No,,19,6.41
+"Very satisfying, good quality.",4,4,U00756,2025-02-09 07:57:59.222104,Food,Positive,New User,53,Yes,10.0,30,5.57
+Great value for money.,3,5,U00757,2024-08-09 07:57:59.222106,Service,Neutral,Returning User,6,Yes,12.0,22,4.88
+Would recommend to friends!,3,3,U00758,2025-02-06 07:57:59.222108,Food,Neutral,New User,46,Yes,15.0,27,6.77
+"Mild flavors, could be stronger.",5,1,U00759,2024-10-16 07:57:59.222110,Software,Positive,VIP User,12,Yes,16.0,32,1.82
+Needs improvement in texture.,2,5,U00760,2024-12-21 07:57:59.222111,Software,Neutral,New User,70,No,,29,8.85
+Perfect balance of flavors.,3,3,U00761,2024-06-06 07:57:59.222113,Food,Neutral,VIP User,58,No,,27,1.95
+Delicious and well-seasoned.,5,5,U00762,2025-03-05 07:57:59.222117,Electronics,Neutral,VIP User,70,No,,28,2.05
+"Mild flavors, could be stronger.",5,1,U00763,2024-05-30 07:57:59.222118,Software,Neutral,New User,51,Yes,23.0,32,3.74
+"Amazing experience, will buy again.",2,5,U00764,2024-12-24 07:57:59.222120,Clothing,Positive,New User,56,No,,35,9.87
+"Amazing experience, will buy again.",2,5,U00765,2024-10-19 07:57:59.222123,Clothing,Negative,New User,36,Yes,2.0,35,2.91
+Perfect balance of flavors.,3,3,U00766,2024-11-10 07:57:59.222124,Service,Positive,New User,5,No,,27,6.97
+Great value for money.,3,5,U00767,2024-07-31 07:57:59.222126,Service,Positive,VIP User,37,Yes,27.0,22,2.76
+Could be less oily.,5,5,U00768,2024-07-07 07:57:59.222128,Food,Neutral,VIP User,42,Yes,27.0,19,4.48
+Needs improvement in texture.,2,5,U00769,2024-04-07 07:57:59.222130,Electronics,Negative,VIP User,27,No,,29,2.5
+Portion size could be larger.,4,4,U00770,2024-08-04 07:57:59.222132,Electronics,Negative,Returning User,57,Yes,3.0,29,6.77
+"Amazing experience, will buy again.",2,5,U00771,2024-11-25 07:57:59.222134,Electronics,Positive,New User,2,No,,35,7.66
+Needs improvement in texture.,2,5,U00772,2024-10-11 07:57:59.222136,Clothing,Negative,New User,54,Yes,7.0,29,5.0
+"Amazing experience, will buy again.",2,5,U00773,2024-03-29 07:57:59.222138,Electronics,Positive,VIP User,30,No,,35,5.91
+"Very satisfying, good quality.",4,4,U00774,2024-07-26 07:57:59.222140,Food,Neutral,VIP User,61,No,,30,6.55
+Could be less oily.,5,5,U00775,2024-07-04 07:57:59.222142,Electronics,Neutral,VIP User,8,No,,19,8.97
+"Very satisfying, good quality.",4,4,U00776,2025-03-14 07:57:59.222144,Electronics,Negative,New User,3,No,,30,9.44
+"Not as expected, needs improvement.",2,3,U00777,2024-11-30 07:57:59.222146,Software,Negative,VIP User,19,No,,35,5.68
+"Amazing experience, will buy again.",2,5,U00778,2024-09-07 07:57:59.222148,Software,Positive,New User,60,Yes,7.0,35,8.37
+Delicious and well-seasoned.,5,5,U00779,2024-07-15 07:57:59.222150,Electronics,Negative,New User,46,No,,28,8.81
+Delicious and well-seasoned.,5,5,U00780,2024-10-13 07:57:59.222152,Software,Neutral,VIP User,24,Yes,24.0,28,9.87
+"Very satisfying, good quality.",4,4,U00781,2024-07-02 07:57:59.222153,Service,Positive,VIP User,68,Yes,19.0,30,3.99
+Would recommend to friends!,3,3,U00782,2024-12-05 07:57:59.222155,Service,Neutral,VIP User,68,Yes,29.0,27,5.31
+"Mild flavors, could be stronger.",5,1,U00783,2024-07-11 07:57:59.222157,Service,Neutral,VIP User,61,No,,32,8.31
+Delicious and well-seasoned.,5,5,U00784,2025-03-03 07:57:59.222159,Clothing,Neutral,New User,16,Yes,28.0,28,4.02
+"Amazing experience, will buy again.",2,5,U00785,2024-04-14 07:57:59.222161,Food,Positive,New User,29,No,,35,2.73
+Perfect balance of flavors.,3,3,U00786,2025-01-26 07:57:59.222163,Software,Negative,VIP User,67,Yes,15.0,27,6.02
+"Very satisfying, good quality.",4,4,U00787,2024-10-24 07:57:59.222165,Software,Negative,VIP User,5,Yes,2.0,30,3.54
+"Not as expected, needs improvement.",2,3,U00788,2024-08-22 07:57:59.222167,Clothing,Negative,New User,50,Yes,15.0,35,6.41
+Portion size could be larger.,4,4,U00789,2024-05-06 07:57:59.222169,Food,Positive,Returning User,26,No,,29,8.79
+Portion size could be larger.,4,4,U00790,2024-07-17 07:57:59.222171,Food,Neutral,Returning User,29,Yes,5.0,29,9.38
+Too salty for my preference.,1,5,U00791,2024-04-15 07:57:59.222172,Electronics,Neutral,New User,43,Yes,11.0,28,1.09
+"Mild flavors, could be stronger.",5,1,U00792,2024-07-09 07:57:59.222174,Service,Positive,Returning User,18,Yes,22.0,32,7.34
+Great value for money.,3,5,U00793,2025-02-01 07:57:59.222176,Service,Neutral,Returning User,62,No,,22,9.6
+Could be less oily.,5,5,U00794,2024-11-22 07:57:59.222178,Software,Negative,Returning User,50,Yes,27.0,19,2.78
+Delicious and well-seasoned.,5,5,U00795,2025-03-13 07:57:59.222180,Clothing,Negative,VIP User,34,No,,28,4.05
+Delicious and well-seasoned.,5,5,U00796,2024-06-23 07:57:59.222182,Food,Negative,VIP User,30,No,,28,6.02
+Great value for money.,3,5,U00797,2025-02-14 07:57:59.222184,Electronics,Negative,New User,52,Yes,28.0,22,9.62
+"Great taste, loved it!",4,1,U00798,2025-01-05 07:57:59.222186,Clothing,Neutral,VIP User,64,No,,22,9.16
+"Not as expected, needs improvement.",2,3,U00799,2024-06-20 07:57:59.222188,Service,Neutral,New User,16,No,,35,4.77
+Lacked freshness.,4,4,U00800,2024-11-07 07:57:59.222190,Software,Neutral,Returning User,39,No,,17,9.01
+"Very satisfying, good quality.",4,4,U00801,2024-10-30 07:57:59.222192,Food,Positive,VIP User,19,Yes,21.0,30,5.94
+Would recommend to friends!,3,3,U00802,2024-11-05 07:57:59.222194,Electronics,Positive,Returning User,63,Yes,21.0,27,7.53
+"Not as expected, needs improvement.",2,3,U00803,2024-11-19 07:57:59.222196,Clothing,Positive,VIP User,26,No,,35,6.16
+Too spicy for me.,5,3,U00804,2024-04-07 07:57:59.222197,Service,Neutral,New User,62,Yes,7.0,17,8.67
+Delicious and well-seasoned.,5,5,U00805,2024-06-05 07:57:59.222199,Electronics,Negative,Returning User,8,No,,28,5.66
+Could be less oily.,5,5,U00806,2024-07-08 07:57:59.222201,Service,Positive,Returning User,1,No,,19,8.18
+Too salty for my preference.,1,5,U00807,2024-10-23 07:57:59.222203,Food,Neutral,VIP User,66,Yes,5.0,28,2.62
+Portion size could be larger.,4,4,U00808,2025-03-23 07:57:59.222205,Clothing,Negative,VIP User,2,Yes,28.0,29,4.42
+Delicious and well-seasoned.,5,5,U00809,2024-07-15 07:57:59.222207,Food,Neutral,VIP User,30,No,,28,9.2
+Too salty for my preference.,1,5,U00810,2025-03-10 07:57:59.222209,Clothing,Neutral,VIP User,44,No,,28,4.31
+"Amazing experience, will buy again.",2,5,U00811,2025-02-03 07:57:59.222211,Clothing,Negative,Returning User,57,Yes,15.0,35,9.35
+"Not as expected, needs improvement.",2,3,U00812,2025-02-25 07:57:59.222213,Software,Positive,New User,44,No,,35,1.49
+"Amazing experience, will buy again.",2,5,U00813,2024-09-22 07:57:59.222215,Service,Positive,Returning User,53,Yes,13.0,35,6.77
+Lacked freshness.,4,4,U00814,2024-12-28 07:57:59.222217,Clothing,Negative,Returning User,42,No,,17,9.99
+Perfect balance of flavors.,3,3,U00815,2024-11-27 07:57:59.222219,Electronics,Negative,Returning User,37,Yes,2.0,27,9.9
+Too spicy for me.,5,3,U00816,2024-08-27 07:57:59.222221,Service,Positive,New User,65,Yes,28.0,17,8.59
+"Not as expected, needs improvement.",2,3,U00817,2024-05-27 07:57:59.222223,Software,Positive,Returning User,18,Yes,17.0,35,4.9
+"Great taste, loved it!",4,1,U00818,2025-01-14 07:57:59.222225,Electronics,Positive,VIP User,12,Yes,10.0,22,9.27
+Lacked freshness.,4,4,U00819,2024-03-26 07:57:59.222227,Clothing,Neutral,New User,58,Yes,3.0,17,5.79
+Needs improvement in texture.,2,5,U00820,2024-06-17 07:57:59.222229,Service,Positive,Returning User,34,Yes,4.0,29,1.34
+"Great taste, loved it!",4,1,U00821,2025-01-30 07:57:59.222230,Software,Neutral,Returning User,32,No,,22,7.1
+"Mild flavors, could be stronger.",5,1,U00822,2024-06-13 07:57:59.222232,Service,Neutral,New User,50,Yes,26.0,32,2.36
+"Very satisfying, good quality.",4,4,U00823,2024-06-19 07:57:59.222234,Clothing,Neutral,VIP User,4,No,,30,4.4
+Could be less oily.,5,5,U00824,2024-10-06 07:57:59.222236,Clothing,Positive,New User,64,Yes,28.0,19,7.28
+"Not as expected, needs improvement.",2,3,U00825,2025-03-03 07:57:59.222238,Electronics,Positive,Returning User,46,No,,35,8.91
+Needs improvement in texture.,2,5,U00826,2024-07-30 07:57:59.222240,Clothing,Negative,New User,25,No,,29,9.49
+Needs improvement in texture.,2,5,U00827,2025-02-08 07:57:59.222242,Service,Positive,Returning User,64,Yes,23.0,29,1.49
+Lacked freshness.,4,4,U00828,2024-07-13 07:57:59.222244,Clothing,Negative,Returning User,69,No,,17,1.18
+Great value for money.,3,5,U00829,2024-08-07 07:57:59.222246,Electronics,Positive,Returning User,60,No,,22,6.79
+"Mild flavors, could be stronger.",5,1,U00830,2025-01-17 07:57:59.222248,Software,Negative,VIP User,64,No,,32,7.93
+Perfect balance of flavors.,3,3,U00831,2025-02-08 07:57:59.222250,Software,Neutral,New User,21,No,,27,2.01
+"Not as expected, needs improvement.",2,3,U00832,2025-02-27 07:57:59.222252,Food,Neutral,Returning User,49,Yes,21.0,35,8.83
+Great value for money.,3,5,U00833,2024-06-30 07:57:59.222254,Electronics,Neutral,Returning User,28,Yes,1.0,22,2.84
+Lacked freshness.,4,4,U00834,2025-03-12 07:57:59.222256,Software,Positive,VIP User,10,No,,17,2.99
+"Very satisfying, good quality.",4,4,U00835,2024-11-14 07:57:59.222258,Clothing,Negative,Returning User,63,No,,30,9.4
+Portion size could be larger.,4,4,U00836,2024-05-14 07:57:59.222260,Electronics,Negative,New User,33,Yes,19.0,29,4.46
+Delicious and well-seasoned.,5,5,U00837,2024-04-21 07:57:59.222262,Food,Neutral,Returning User,41,No,,28,5.62
+Delicious and well-seasoned.,5,5,U00838,2025-01-22 07:57:59.222264,Electronics,Negative,VIP User,28,Yes,6.0,28,7.37
+Perfect balance of flavors.,3,3,U00839,2024-09-28 07:57:59.222266,Electronics,Neutral,Returning User,68,Yes,11.0,27,7.39
+"Very satisfying, good quality.",4,4,U00840,2024-03-28 07:57:59.222268,Service,Negative,VIP User,28,Yes,4.0,30,8.62
+Would recommend to friends!,3,3,U00841,2024-11-28 07:57:59.222270,Food,Negative,Returning User,28,No,,27,6.56
+Perfect balance of flavors.,3,3,U00842,2024-03-23 07:57:59.222272,Electronics,Negative,New User,44,No,,27,7.88
+"Not as expected, needs improvement.",2,3,U00843,2025-02-10 07:57:59.222273,Food,Positive,New User,28,No,,35,1.48
+"Not as expected, needs improvement.",2,3,U00844,2024-05-17 07:57:59.222275,Software,Neutral,Returning User,23,No,,35,1.65
+Too salty for my preference.,1,5,U00845,2024-06-30 07:57:59.222277,Service,Positive,Returning User,24,No,,28,2.23
+Great value for money.,3,5,U00846,2024-04-24 07:57:59.222279,Electronics,Positive,New User,43,No,,22,4.64
+Would recommend to friends!,3,3,U00847,2024-08-15 07:57:59.222281,Service,Negative,New User,1,No,,27,2.26
+Delicious and well-seasoned.,5,5,U00848,2024-03-30 07:57:59.222283,Service,Negative,New User,50,No,,28,3.78
+Needs improvement in texture.,2,5,U00849,2024-08-17 07:57:59.222285,Service,Positive,New User,45,Yes,12.0,29,3.84
+Great value for money.,3,5,U00850,2024-04-24 07:57:59.222287,Software,Negative,VIP User,13,Yes,7.0,22,3.67
+Too spicy for me.,5,3,U00851,2025-02-17 07:57:59.222289,Food,Neutral,Returning User,64,Yes,29.0,17,2.77
+"Not as expected, needs improvement.",2,3,U00852,2025-03-19 07:57:59.222291,Food,Positive,VIP User,58,Yes,29.0,35,9.48
+"Mild flavors, could be stronger.",5,1,U00853,2025-01-04 07:57:59.222293,Software,Negative,New User,11,No,,32,2.37
+Could be less oily.,5,5,U00854,2025-03-02 07:57:59.222295,Electronics,Negative,Returning User,61,No,,19,5.96
+"Very satisfying, good quality.",4,4,U00855,2024-06-08 07:57:59.222297,Electronics,Positive,New User,2,No,,30,8.97
+"Great taste, loved it!",4,1,U00856,2025-03-11 07:57:59.222299,Clothing,Positive,Returning User,21,No,,22,9.65
+Perfect balance of flavors.,3,3,U00857,2024-09-04 07:57:59.222301,Electronics,Positive,New User,13,No,,27,5.66
+"Not as expected, needs improvement.",2,3,U00858,2024-10-10 07:57:59.222302,Electronics,Positive,New User,62,Yes,23.0,35,1.66
+Great value for money.,3,5,U00859,2025-01-03 07:57:59.222304,Software,Positive,VIP User,14,No,,22,4.93
+Would recommend to friends!,3,3,U00860,2025-01-06 07:57:59.222306,Software,Negative,Returning User,43,Yes,14.0,27,1.07
+Could be less oily.,5,5,U00861,2024-06-05 07:57:59.222308,Software,Neutral,Returning User,38,Yes,22.0,19,1.97
+"Mild flavors, could be stronger.",5,1,U00862,2024-12-24 07:57:59.222312,Food,Negative,VIP User,36,Yes,7.0,32,7.23
+Great value for money.,3,5,U00863,2024-05-14 07:57:59.222314,Service,Negative,VIP User,42,Yes,23.0,22,1.64
+"Great taste, loved it!",4,1,U00864,2025-02-13 07:57:59.222316,Electronics,Positive,New User,15,No,,22,2.37
+Could be less oily.,5,5,U00865,2024-08-30 07:57:59.222318,Clothing,Neutral,New User,29,No,,19,5.96
+Too spicy for me.,5,3,U00866,2025-02-07 07:57:59.222319,Food,Neutral,VIP User,65,Yes,12.0,17,2.67
+"Great taste, loved it!",4,1,U00867,2024-06-20 07:57:59.222321,Software,Negative,New User,4,Yes,9.0,22,8.77
+Lacked freshness.,4,4,U00868,2024-12-20 07:57:59.222323,Clothing,Negative,Returning User,70,Yes,15.0,17,8.39
+"Amazing experience, will buy again.",2,5,U00869,2024-05-24 07:57:59.222325,Software,Neutral,VIP User,3,Yes,16.0,35,1.55
+Lacked freshness.,4,4,U00870,2024-04-30 07:57:59.222327,Clothing,Positive,VIP User,60,Yes,16.0,17,6.96
+Delicious and well-seasoned.,5,5,U00871,2024-06-10 07:57:59.222329,Clothing,Negative,New User,31,No,,28,8.52
+Great value for money.,3,5,U00872,2024-10-22 07:57:59.222332,Clothing,Neutral,New User,50,Yes,18.0,22,9.02
+"Not as expected, needs improvement.",2,3,U00873,2024-12-28 07:57:59.222334,Electronics,Negative,New User,70,Yes,28.0,35,5.76
+"Not as expected, needs improvement.",2,3,U00874,2024-09-11 07:57:59.222336,Clothing,Positive,VIP User,45,No,,35,8.5
+"Not as expected, needs improvement.",2,3,U00875,2024-04-16 07:57:59.222338,Service,Positive,New User,55,No,,35,6.46
+"Mild flavors, could be stronger.",5,1,U00876,2024-05-17 07:57:59.222340,Service,Neutral,New User,15,Yes,24.0,32,7.04
+"Amazing experience, will buy again.",2,5,U00877,2024-09-05 07:57:59.222342,Electronics,Neutral,New User,69,No,,35,7.39
+Lacked freshness.,4,4,U00878,2024-03-25 07:57:59.222343,Electronics,Positive,Returning User,21,Yes,11.0,17,2.17
+"Amazing experience, will buy again.",2,5,U00879,2024-06-13 07:57:59.222345,Service,Positive,Returning User,38,Yes,5.0,35,5.41
+Portion size could be larger.,4,4,U00880,2025-03-22 07:57:59.222347,Electronics,Neutral,New User,63,No,,29,6.38
+Great value for money.,3,5,U00881,2024-09-25 07:57:59.222349,Clothing,Neutral,New User,67,No,,22,7.6
+"Amazing experience, will buy again.",2,5,U00882,2024-06-27 07:57:59.222351,Clothing,Positive,VIP User,34,Yes,4.0,35,8.13
+Needs improvement in texture.,2,5,U00883,2024-12-13 07:57:59.222353,Service,Positive,VIP User,20,No,,29,4.52
+Perfect balance of flavors.,3,3,U00884,2024-03-28 07:57:59.222355,Electronics,Neutral,New User,39,Yes,29.0,27,2.17
+Perfect balance of flavors.,3,3,U00885,2024-09-07 07:57:59.222359,Clothing,Neutral,New User,21,Yes,26.0,27,7.08
+Needs improvement in texture.,2,5,U00886,2025-02-20 07:57:59.222362,Software,Negative,New User,44,Yes,14.0,29,8.64
+Could be less oily.,5,5,U00887,2024-11-23 07:57:59.222365,Food,Neutral,VIP User,19,No,,19,9.24
+Too salty for my preference.,1,5,U00888,2024-10-13 07:57:59.222369,Electronics,Neutral,VIP User,22,Yes,11.0,28,4.96
+"Mild flavors, could be stronger.",5,1,U00889,2024-08-30 07:57:59.222372,Software,Neutral,VIP User,8,No,,32,3.18
+Could be less oily.,5,5,U00890,2024-06-09 07:57:59.222375,Clothing,Neutral,Returning User,59,Yes,10.0,19,7.91
+"Great taste, loved it!",4,1,U00891,2025-01-21 07:57:59.222378,Software,Negative,New User,38,No,,22,8.03
+Would recommend to friends!,3,3,U00892,2025-03-22 07:57:59.222382,Clothing,Negative,VIP User,15,No,,27,8.93
+"Mild flavors, could be stronger.",5,1,U00893,2024-04-09 07:57:59.222385,Electronics,Neutral,VIP User,3,Yes,25.0,32,8.41
+"Mild flavors, could be stronger.",5,1,U00894,2024-06-12 07:57:59.222388,Clothing,Positive,VIP User,5,Yes,20.0,32,2.68
+"Great taste, loved it!",4,1,U00895,2024-09-19 07:57:59.222392,Service,Negative,VIP User,45,No,,22,1.73
+"Amazing experience, will buy again.",2,5,U00896,2024-06-02 07:57:59.222399,Electronics,Neutral,VIP User,39,No,,35,8.7
+Lacked freshness.,4,4,U00897,2024-10-26 07:57:59.222402,Clothing,Positive,New User,55,No,,17,1.67
+Lacked freshness.,4,4,U00898,2024-06-13 07:57:59.222404,Clothing,Neutral,New User,16,No,,17,7.42
+Perfect balance of flavors.,3,3,U00899,2024-08-28 07:57:59.222406,Service,Neutral,Returning User,55,No,,27,2.0
+"Very satisfying, good quality.",4,4,U00900,2024-08-31 07:57:59.222408,Food,Negative,New User,41,No,,30,4.86
+Could be less oily.,5,5,U00901,2024-05-31 07:57:59.222410,Software,Neutral,Returning User,8,Yes,6.0,19,8.35
+Portion size could be larger.,4,4,U00902,2024-12-02 07:57:59.222412,Clothing,Neutral,Returning User,36,Yes,22.0,29,5.81
+Great value for money.,3,5,U00903,2025-01-17 07:57:59.222414,Electronics,Positive,Returning User,57,No,,22,4.46
+Delicious and well-seasoned.,5,5,U00904,2024-06-17 07:57:59.222416,Software,Positive,New User,21,Yes,23.0,28,9.57
+Too spicy for me.,5,3,U00905,2024-10-15 07:57:59.222418,Software,Neutral,Returning User,22,No,,17,7.86
+Lacked freshness.,4,4,U00906,2025-03-08 07:57:59.222420,Electronics,Negative,Returning User,59,No,,17,2.95
+Great value for money.,3,5,U00907,2024-07-15 07:57:59.222422,Clothing,Negative,VIP User,25,No,,22,4.24
+Too spicy for me.,5,3,U00908,2024-11-01 07:57:59.222424,Food,Negative,Returning User,49,No,,17,5.26
+Great value for money.,3,5,U00909,2024-08-30 07:57:59.222426,Clothing,Negative,New User,13,Yes,6.0,22,4.15
+"Amazing experience, will buy again.",2,5,U00910,2025-02-07 07:57:59.222428,Food,Neutral,Returning User,61,No,,35,4.36
+Too spicy for me.,5,3,U00911,2024-05-09 07:57:59.222430,Food,Negative,Returning User,29,Yes,9.0,17,2.57
+Delicious and well-seasoned.,5,5,U00912,2024-05-03 07:57:59.222432,Electronics,Neutral,Returning User,18,Yes,20.0,28,3.78
+Great value for money.,3,5,U00913,2024-10-17 07:57:59.222434,Clothing,Neutral,New User,31,Yes,15.0,22,8.74
+Needs improvement in texture.,2,5,U00914,2024-04-13 07:57:59.222436,Electronics,Positive,VIP User,28,No,,29,9.2
+Delicious and well-seasoned.,5,5,U00915,2025-01-10 07:57:59.222438,Service,Neutral,New User,64,Yes,1.0,28,2.58
+Too spicy for me.,5,3,U00916,2024-06-18 07:57:59.222439,Software,Positive,Returning User,37,Yes,27.0,17,9.75
+Delicious and well-seasoned.,5,5,U00917,2024-12-18 07:57:59.222442,Software,Negative,VIP User,57,Yes,24.0,28,9.82
+Great value for money.,3,5,U00918,2024-08-21 07:57:59.222443,Clothing,Positive,New User,9,Yes,30.0,22,2.86
+Too salty for my preference.,1,5,U00919,2024-03-24 07:57:59.222445,Clothing,Neutral,New User,11,Yes,26.0,28,5.55
+Great value for money.,3,5,U00920,2024-07-26 07:57:59.222447,Software,Positive,Returning User,14,No,,22,4.09
+Great value for money.,3,5,U00921,2024-05-16 07:57:59.222449,Service,Neutral,VIP User,61,No,,22,7.33
+"Amazing experience, will buy again.",2,5,U00922,2025-02-07 07:57:59.222452,Software,Negative,New User,64,No,,35,6.85
+Could be less oily.,5,5,U00923,2024-08-21 07:57:59.222453,Service,Neutral,New User,71,Yes,14.0,19,2.59
+Needs improvement in texture.,2,5,U00924,2024-10-12 07:57:59.222455,Food,Negative,Returning User,9,Yes,13.0,29,1.09
+Portion size could be larger.,4,4,U00925,2025-01-03 07:57:59.222457,Electronics,Neutral,Returning User,49,Yes,10.0,29,7.79
+Lacked freshness.,4,4,U00926,2024-08-19 07:57:59.222459,Service,Negative,Returning User,25,No,,17,2.08
+"Mild flavors, could be stronger.",5,1,U00927,2024-05-29 07:57:59.222461,Software,Positive,VIP User,37,No,,32,1.97
+"Great taste, loved it!",4,1,U00928,2025-01-16 07:57:59.222463,Electronics,Neutral,Returning User,34,Yes,27.0,22,5.83
+Could be less oily.,5,5,U00929,2024-06-26 07:57:59.222465,Electronics,Negative,Returning User,67,Yes,21.0,19,9.32
+"Great taste, loved it!",4,1,U00930,2025-03-21 07:57:59.222467,Clothing,Positive,VIP User,24,No,,22,6.54
+"Amazing experience, will buy again.",2,5,U00931,2024-12-04 07:57:59.222469,Clothing,Negative,New User,53,No,,35,1.48
+Needs improvement in texture.,2,5,U00932,2024-05-05 07:57:59.222471,Service,Neutral,Returning User,6,Yes,11.0,29,9.52
+"Not as expected, needs improvement.",2,3,U00933,2024-04-08 07:57:59.222473,Electronics,Neutral,Returning User,40,No,,35,6.12
+Great value for money.,3,5,U00934,2024-09-07 07:57:59.222475,Software,Positive,Returning User,3,Yes,9.0,22,8.15
+"Not as expected, needs improvement.",2,3,U00935,2024-05-07 07:57:59.222477,Software,Neutral,VIP User,15,Yes,13.0,35,1.92
+"Not as expected, needs improvement.",2,3,U00936,2024-11-13 07:57:59.222479,Electronics,Negative,VIP User,36,Yes,16.0,35,9.67
+Would recommend to friends!,3,3,U00937,2025-02-07 07:57:59.222480,Clothing,Positive,Returning User,33,No,,27,9.55
+Perfect balance of flavors.,3,3,U00938,2024-11-07 07:57:59.222482,Service,Negative,Returning User,68,Yes,15.0,27,6.5
+"Not as expected, needs improvement.",2,3,U00939,2024-11-18 07:57:59.222484,Service,Neutral,VIP User,17,Yes,3.0,35,4.55
+Lacked freshness.,4,4,U00940,2025-02-01 07:57:59.222486,Food,Positive,VIP User,60,No,,17,2.15
+Too salty for my preference.,1,5,U00941,2024-09-21 07:57:59.222488,Electronics,Neutral,New User,12,Yes,9.0,28,7.9
+Perfect balance of flavors.,3,3,U00942,2024-06-14 07:57:59.222490,Electronics,Neutral,VIP User,58,No,,27,3.37
+"Amazing experience, will buy again.",2,5,U00943,2025-03-10 07:57:59.222492,Clothing,Negative,VIP User,47,No,,35,3.29
+"Mild flavors, could be stronger.",5,1,U00944,2024-07-15 07:57:59.222494,Food,Positive,VIP User,70,Yes,25.0,32,9.59
+Could be less oily.,5,5,U00945,2024-09-06 07:57:59.222496,Service,Positive,New User,56,No,,19,2.59
+Too salty for my preference.,1,5,U00946,2025-02-28 07:57:59.222497,Electronics,Positive,VIP User,8,No,,28,3.2
+Delicious and well-seasoned.,5,5,U00947,2024-10-01 07:57:59.222499,Electronics,Negative,VIP User,17,No,,28,8.77
+Too spicy for me.,5,3,U00948,2024-07-17 07:57:59.222501,Clothing,Positive,Returning User,66,No,,17,2.5
+Would recommend to friends!,3,3,U00949,2024-10-17 07:57:59.222503,Service,Positive,VIP User,18,Yes,21.0,27,7.53
+Too salty for my preference.,1,5,U00950,2024-03-31 07:57:59.222505,Food,Negative,New User,4,Yes,13.0,28,9.0
+Portion size could be larger.,4,4,U00951,2024-11-17 07:57:59.222507,Service,Positive,VIP User,62,No,,29,1.43
+"Not as expected, needs improvement.",2,3,U00952,2025-02-18 07:57:59.222509,Clothing,Neutral,New User,58,Yes,6.0,35,3.3
+"Amazing experience, will buy again.",2,5,U00953,2025-02-02 07:57:59.222511,Food,Neutral,Returning User,28,Yes,2.0,35,2.94
+"Very satisfying, good quality.",4,4,U00954,2024-06-12 07:57:59.222513,Service,Neutral,VIP User,8,No,,30,9.94
+Too spicy for me.,5,3,U00955,2024-10-19 07:57:59.222515,Food,Positive,New User,29,Yes,3.0,17,3.12
+"Great taste, loved it!",4,1,U00956,2024-05-17 07:57:59.222516,Service,Positive,Returning User,48,No,,22,4.84
+Lacked freshness.,4,4,U00957,2024-10-10 07:57:59.222520,Food,Neutral,New User,35,No,,17,8.76
+"Great taste, loved it!",4,1,U00958,2024-11-14 07:57:59.222521,Service,Positive,VIP User,66,Yes,1.0,22,3.29
+Too salty for my preference.,1,5,U00959,2024-03-27 07:57:59.222523,Service,Positive,VIP User,61,Yes,16.0,28,4.2
+"Mild flavors, could be stronger.",5,1,U00960,2025-01-27 07:57:59.222525,Food,Positive,VIP User,67,No,,32,9.25
+"Great taste, loved it!",4,1,U00961,2025-01-30 07:57:59.222527,Food,Neutral,Returning User,19,No,,22,4.23
+Portion size could be larger.,4,4,U00962,2024-11-18 07:57:59.222529,Food,Positive,VIP User,2,No,,29,4.77
+"Amazing experience, will buy again.",2,5,U00963,2024-04-23 07:57:59.222531,Electronics,Neutral,New User,69,No,,35,9.72
+Delicious and well-seasoned.,5,5,U00964,2024-09-18 07:57:59.222533,Clothing,Positive,New User,5,No,,28,7.41
+"Mild flavors, could be stronger.",5,1,U00965,2025-01-04 07:57:59.222535,Food,Positive,Returning User,4,No,,32,2.14
+Could be less oily.,5,5,U00966,2024-06-05 07:57:59.222537,Service,Positive,Returning User,5,Yes,10.0,19,4.69
+Lacked freshness.,4,4,U00967,2024-10-09 07:57:59.222539,Software,Neutral,Returning User,14,No,,17,7.04
+Portion size could be larger.,4,4,U00968,2024-08-14 07:57:59.222540,Service,Neutral,VIP User,69,Yes,2.0,29,3.83
+Portion size could be larger.,4,4,U00969,2025-01-15 07:57:59.222542,Food,Positive,Returning User,50,Yes,21.0,29,8.29
+"Great taste, loved it!",4,1,U00970,2025-03-11 07:57:59.222544,Service,Negative,New User,49,Yes,27.0,22,6.67
+"Not as expected, needs improvement.",2,3,U00971,2024-11-17 07:57:59.222546,Electronics,Negative,Returning User,63,Yes,10.0,35,7.48
+"Great taste, loved it!",4,1,U00972,2024-11-04 07:57:59.222548,Clothing,Neutral,VIP User,45,No,,22,4.69
+Too salty for my preference.,1,5,U00973,2024-12-11 07:57:59.222550,Electronics,Positive,VIP User,9,Yes,24.0,28,7.55
+Could be less oily.,5,5,U00974,2025-01-06 07:57:59.222554,Software,Negative,New User,12,Yes,16.0,19,7.94
+Perfect balance of flavors.,3,3,U00975,2024-12-05 07:57:59.222556,Food,Neutral,VIP User,13,No,,27,9.6
+"Mild flavors, could be stronger.",5,1,U00976,2025-03-15 07:57:59.222558,Electronics,Neutral,Returning User,30,Yes,27.0,32,6.59
+"Great taste, loved it!",4,1,U00977,2025-01-15 07:57:59.222560,Clothing,Negative,New User,47,Yes,21.0,22,7.96
+"Amazing experience, will buy again.",2,5,U00978,2025-01-16 07:57:59.222562,Service,Negative,New User,36,Yes,17.0,35,8.61
+"Very satisfying, good quality.",4,4,U00979,2025-02-21 07:57:59.222566,Service,Negative,VIP User,46,No,,30,7.62
+Lacked freshness.,4,4,U00980,2024-04-22 07:57:59.222569,Service,Neutral,VIP User,15,No,,17,8.3
+Great value for money.,3,5,U00981,2025-01-26 07:57:59.222573,Electronics,Neutral,VIP User,43,Yes,12.0,22,4.14
+"Great taste, loved it!",4,1,U00982,2024-10-27 07:57:59.222576,Software,Positive,New User,71,No,,22,6.85
+"Amazing experience, will buy again.",2,5,U00983,2025-02-12 07:57:59.222579,Service,Neutral,VIP User,8,No,,35,9.21
+"Mild flavors, could be stronger.",5,1,U00984,2024-05-01 07:57:59.222583,Electronics,Neutral,New User,60,No,,32,6.96
+"Amazing experience, will buy again.",2,5,U00985,2024-09-04 07:57:59.222586,Clothing,Neutral,New User,3,No,,35,5.2
+Lacked freshness.,4,4,U00986,2024-05-24 07:57:59.222589,Clothing,Negative,VIP User,54,No,,17,9.38
+Perfect balance of flavors.,3,3,U00987,2024-04-19 07:57:59.222593,Electronics,Negative,Returning User,27,Yes,1.0,27,4.13
+"Amazing experience, will buy again.",2,5,U00988,2024-03-24 07:57:59.222597,Food,Negative,VIP User,55,Yes,21.0,35,9.08
+"Very satisfying, good quality.",4,4,U00989,2025-01-28 07:57:59.222600,Electronics,Positive,VIP User,28,No,,30,2.25
+"Amazing experience, will buy again.",2,5,U00990,2024-05-27 07:57:59.222602,Clothing,Negative,New User,56,No,,35,6.05
+"Amazing experience, will buy again.",2,5,U00991,2024-12-22 07:57:59.222604,Clothing,Positive,VIP User,60,Yes,8.0,35,9.6
+"Amazing experience, will buy again.",2,5,U00992,2024-04-05 07:57:59.222606,Clothing,Negative,Returning User,38,Yes,17.0,35,4.31
+Delicious and well-seasoned.,5,5,U00993,2024-04-18 07:57:59.222608,Software,Negative,VIP User,56,No,,28,8.26
+Delicious and well-seasoned.,5,5,U00994,2024-07-04 07:57:59.222610,Software,Neutral,VIP User,11,Yes,5.0,28,8.97
+Perfect balance of flavors.,3,3,U00995,2024-11-14 07:57:59.222611,Food,Neutral,New User,11,Yes,17.0,27,6.49
+"Great taste, loved it!",4,1,U00996,2024-06-04 07:57:59.222613,Food,Neutral,VIP User,61,No,,22,3.08
+"Amazing experience, will buy again.",2,5,U00997,2025-03-13 07:57:59.222615,Software,Negative,VIP User,58,No,,35,6.32
+Would recommend to friends!,3,3,U00998,2024-08-24 07:57:59.222617,Software,Negative,New User,29,Yes,6.0,27,5.55
+Could be less oily.,5,5,U00999,2024-07-24 07:57:59.222619,Service,Positive,Returning User,49,No,,19,2.48
+Would recommend to friends!,3,3,U01000,2024-07-10 07:57:59.222621,Food,Neutral,New User,40,No,,27,3.35
